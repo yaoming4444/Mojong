@@ -1,0 +1,192 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="IDosGames.AuthorizationPopUpView">
+			<method name="CloseMainPopUp"/>
+			<method name="CloseRecoveryPopUp"/>
+			<method name="CloseRecoveryPopUp"/>
+			<method name="ShowRecoveryPopUp"/>
+		</type>
+		<type fullname="IDosGames.AutoLogin">
+			<method name="AutoLoginWithDeviceID"/>
+		</type>
+		<type fullname="IDosGames.EmailRecoveryPopUp">
+			<method name="SendResetPassword"/>
+		</type>
+		<type fullname="Mkey.BoardHelper">
+			<method name="RestartLevel"/>
+			<method name="RestartLevel"/>
+			<method name="RestartLevel"/>
+		</type>
+		<type fullname="Mkey.GameBoard">
+			<method name="BreakLevelEventRaise"/>
+		</type>
+		<type fullname="Mkey.GameConstructor">
+			<method name="GotoLevel"/>
+			<method name="InsertAfter"/>
+			<method name="MoveTilesDown"/>
+			<method name="MoveTilesLeft"/>
+			<method name="MoveTilesRight"/>
+			<method name="MoveTilesUp"/>
+			<method name="OpenConstructPanel"/>
+			<method name="OpenSettingsPanel_Click"/>
+			<method name="RemoveLevel"/>
+			<method name="ScrollLevelButtons"/>
+			<method name="ScrollLevelButtons"/>
+		</type>
+		<type fullname="Mkey.GameObjectToggle">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetInvActive"/>
+			<method name="SetInvActive"/>
+			<method name="SetInvActive"/>
+			<method name="SetInvActive"/>
+			<method name="SetInvActive"/>
+			<method name="SetInvActive"/>
+			<method name="SetInvActive"/>
+			<method name="SetInvActive"/>
+		</type>
+		<type fullname="Mkey.HintHelper">
+			<method name="Select_Hint"/>
+		</type>
+		<type fullname="Mkey.HintHolder">
+			<method name="Add"/>
+			<method name="Add"/>
+			<method name="Add"/>
+			<method name="Add"/>
+		</type>
+		<type fullname="Mkey.MahjongThemePU">
+			<method name="Confirm_Click"/>
+			<method name="Confirm_Click"/>
+		</type>
+		<type fullname="Mkey.ModeButton">
+			<method name="NextLevel"/>
+			<method name="PrevLevel"/>
+		</type>
+		<type fullname="Mkey.NextLevelButton">
+			<method name="Click"/>
+		</type>
+		<type fullname="Mkey.OpenURLButton">
+			<method name="Click"/>
+			<method name="Click"/>
+			<method name="Click"/>
+			<method name="Click"/>
+		</type>
+		<type fullname="Mkey.OutText">
+			<method name="IntToText"/>
+			<method name="IntToText"/>
+			<method name="IntToText"/>
+			<method name="IntToText"/>
+			<method name="IntToText"/>
+			<method name="IntToText"/>
+			<method name="IntToText"/>
+		</type>
+		<type fullname="Mkey.PlaySound">
+			<method name="PlayClip"/>
+			<method name="PlayClip"/>
+			<method name="PlayClip"/>
+			<method name="PlayClip"/>
+			<method name="PlayClip"/>
+			<method name="PlayClip"/>
+		</type>
+		<type fullname="Mkey.PopUpsController">
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+			<method name="CloseWindow"/>
+		</type>
+		<type fullname="Mkey.PSlider">
+			<method name="AddAmount"/>
+			<method name="AddAmount"/>
+			<method name="AddAmount"/>
+			<method name="AddAmount"/>
+			<method name="SetValueWithoutNotify"/>
+			<method name="SetValueWithoutNotify"/>
+			<method name="SetValueWithoutNotify"/>
+			<method name="SetValueWithoutNotify"/>
+			<method name="SetValueWithoutNotify"/>
+			<method name="SetValueWithoutNotify"/>
+			<method name="SetValueWithoutNotify"/>
+			<method name="SetValueWithoutNotify"/>
+		</type>
+		<type fullname="Mkey.SceneLoadHelper">
+			<method name="LoadSceneByIndex"/>
+			<method name="LoadSceneByIndex"/>
+		</type>
+		<type fullname="Mkey.SettingsWindowController">
+			<method name="ToggleHiglihtMode"/>
+			<method name="ToggleHiglihtMode"/>
+		</type>
+		<type fullname="Mkey.ShowGuiPopUp">
+			<method name="ShowPopUp"/>
+			<method name="ShowPopUp"/>
+			<method name="ShowPopUp"/>
+			<method name="ShowPopUp"/>
+			<method name="ShowPopUp"/>
+			<method name="ShowPopUp"/>
+			<method name="ShowPopUp"/>
+			<method name="ShowPopUp"/>
+		</type>
+		<type fullname="Mkey.ShowRewardedAd">
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+		</type>
+		<type fullname="Mkey.ShuffleHelper">
+			<method name="Shuffle_click"/>
+			<method name="Shuffle_click"/>
+		</type>
+		<type fullname="Mkey.ShuffleHolder">
+			<method name="Add"/>
+			<method name="Add"/>
+			<method name="Add"/>
+			<method name="Add"/>
+		</type>
+		<type fullname="Mkey.SoundGUIController">
+			<method name="SetVolume"/>
+			<method name="SetVolume"/>
+			<method name="ToggleMusik"/>
+			<method name="ToggleMusik"/>
+			<method name="ToggleSound"/>
+			<method name="ToggleSound"/>
+		</type>
+		<type fullname="Mkey.Tester">
+			<method name="AutoCollect"/>
+			<method name="StopAutoCollect"/>
+		</type>
+		<type fullname="Mkey.ToggleButton">
+			<method name="SetOnWithoutNotify"/>
+			<method name="SetOnWithoutNotify"/>
+			<method name="SetOnWithoutNotify"/>
+			<method name="SetOnWithoutNotify"/>
+		</type>
+		<type fullname="Mkey.UndoMatch">
+			<method name="RestoreUndoState"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>

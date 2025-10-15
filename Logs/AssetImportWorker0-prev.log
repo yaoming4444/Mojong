@@ -1,0 +1,455 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.2/staging' branch; Version is '6000.2.2f1 (ea398eefe1c2) revision 15350158'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-BG" at "2025-10-14T13:36:54.5036106Z"
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'ru' Physical Memory: 32603 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+Date: 2025-10-14T13:36:54Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/BG/Mojong
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50985
+-job-worker-count
+9
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/BG/Mojong
+C:/Users/BG/Mojong
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [19816]  Target information:
+
+Player connection [19816]  * "[IP] 192.168.1.71 [Port] 0 [Flags] 2 [Guid] 2021013016 [EditorId] 2021013016 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UASRTH4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [19816] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [19816] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 14636, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.17.2'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-BG"
+[Licensing::IpcConnector] LicenseClient-BG channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-BG-6000.2.2" at "2025-10-14T13:36:54.530412Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 9564, path: "C:/Program Files/Unity/Hub/Editor/6000.2.2f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.2+ff71f16
+  Session Id:              bdf2b08bb74f4f0ea878f88598f87769
+  Correlation Id:          ebd17888a3e0f6c93d1228459770a4b8
+  External correlation Id: 137297093384182651
+  Machine Id:              sp17wWPrvyXnarCH4k8BW9ynWKo=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-BG-6000.2.2" (connect: 0.00s, validation: 0.00s, handshake: 0.00s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-BG-6000.2.2-notifications" at "2025-10-14T13:36:54.5357997Z"
+[Licensing::Module] Licensing Background thread has ended after 0.03s
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 4.45 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.2.2f1 (ea398eefe1c2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/BG/Mojong/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce RTX 4060 (ID=0x2882)
+    Vendor:          NVIDIA
+    VRAM:            7957 MB
+    App VRAM Budget: 7189 MB
+    Driver:          32.0.15.7700
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56296
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 18966884011014-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.2f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.003752 seconds.
+- Loaded All Assemblies, in  0.276 seconds
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 142 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.406 seconds
+Domain Reload Profiling: 681ms
+	BeginReloadAssembly (83ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (122ms)
+		LoadAssemblies (82ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (119ms)
+			TypeCache.Refresh (118ms)
+				TypeCache.ScanAssembly (109ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (406ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (372ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (215ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (39ms)
+			ProcessInitializeOnLoadAttributes (78ms)
+			ProcessInitializeOnLoadMethodAttributes (37ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+Duplicate assembly 'BouncyCastle.Crypto.dll' with different versions detected, using 'Assets/iDosGamesSDK Modules/Crypto Wallet IGC/SolanaSDK/Packages/BouncyCastle.Crypto.dll, AssemblyName=BouncyCastle.Crypto, Version=1.9.0.0, Culture=neutral, PublicKeyToken=0e99375e54769942' and ignoring 'Assets/iDosGamesSDK Modules/Crypto Wallet IGC/Nethereum/BouncyCastle.Crypto.dll, AssemblyName=BouncyCastle.Crypto, Version=1.8.2.0, Culture=neutral, PublicKeyToken=0e99375e54769942'.- Loaded All Assemblies, in  0.679 seconds
+Refreshing native plugins compatible for Editor in 2.51 ms, found 4 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.46 ms, found 4 plugins.
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.459 seconds
+Domain Reload Profiling: 1135ms
+	BeginReloadAssembly (133ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (474ms)
+		LoadAssemblies (293ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (253ms)
+			TypeCache.Refresh (211ms)
+				TypeCache.ScanAssembly (194ms)
+			BuildScriptInfoCaches (31ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (460ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (375ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (75ms)
+			ProcessInitializeOnLoadAttributes (251ms)
+			ProcessInitializeOnLoadMethodAttributes (33ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 2.23 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5811 unused Assets / (2.3 MB). Loaded Objects now: 6233.
+Memory consumption went from 111.8 MB to 109.5 MB.
+Total: 5.822300 ms (FindLiveObjects: 0.409800 ms CreateObjectMapping: 0.384800 ms MarkObjects: 3.471000 ms  DeleteObjects: 1.556000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 743465.632359 seconds.
+  path: Assets/Mahjong/Scripts/MKMatchUtils
+  artifactKey: Guid(10ef9fb43460f35478c9739cefc94993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mahjong/Scripts/MKMatchUtils using Guid(10ef9fb43460f35478c9739cefc94993) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '72dc0ed7550139b44d1d3cdf8635a7ed') in 0.0041941 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.192909 seconds.
+  path: Assets/Mahjong/Scripts/GameScripts
+  artifactKey: Guid(e4bc7c611db16e045b1b4222d8049b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mahjong/Scripts/GameScripts using Guid(e4bc7c611db16e045b1b4222d8049b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd8e7c34007ec2b07a1c0b8e37ba5c1f4') in 0.0004905 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.703190 seconds.
+  path: Assets/Mahjong/Scripts/GameScripts/GameEvents.cs
+  artifactKey: Guid(c9da465b38308134bb7b8e750901f650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mahjong/Scripts/GameScripts/GameEvents.cs using Guid(c9da465b38308134bb7b8e750901f650) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ac8a520c0f4df66c30a84e28ecf68577') in 0.0003799 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.585929 seconds.
+  path: Assets/Mahjong/Scripts/GameScripts/ScoreController.cs
+  artifactKey: Guid(bfbbad66ac6b6614cbf21c7a2a31939c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mahjong/Scripts/GameScripts/ScoreController.cs using Guid(bfbbad66ac6b6614cbf21c7a2a31939c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd1d34be383cad1386607a12e1b07b05') in 0.0003999 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.046075 seconds.
+  path: Assets/Mahjong/Scripts/GameScripts/TargetData.cs
+  artifactKey: Guid(976443ee312530c438187de8e4e2081f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mahjong/Scripts/GameScripts/TargetData.cs using Guid(976443ee312530c438187de8e4e2081f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9493e1c478d04d3d8d983442d3804429') in 0.000393 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.019878 seconds.
+  path: Assets/Mahjong/Scripts/GameScripts/UndoMatch.cs
+  artifactKey: Guid(d2b3e942a95afd3478901eebfcaa120f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mahjong/Scripts/GameScripts/UndoMatch.cs using Guid(d2b3e942a95afd3478901eebfcaa120f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '830d2537d4ce1207b3f87b3bd596b235') in 0.0004379 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.282502 seconds.
+  path: Assets/Mahjong/Scripts/GameScripts/TileTouchBehavior.cs
+  artifactKey: Guid(ae7a24983335c0a42ac3d2ba6ce7e59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mahjong/Scripts/GameScripts/TileTouchBehavior.cs using Guid(ae7a24983335c0a42ac3d2ba6ce7e59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a3c2619caafbf363bd944fdfd799da72') in 0.0004224 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.631265 seconds.
+  path: Assets/Mahjong/Scripts/GameScripts/SortingOrder.cs
+  artifactKey: Guid(5d352579b9b5dd44e9bba2e3824d415d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mahjong/Scripts/GameScripts/SortingOrder.cs using Guid(5d352579b9b5dd44e9bba2e3824d415d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c25c6e947c30097f082e33e42bcda395') in 0.0004329 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.319771 seconds.
+  path: Assets/Mahjong/Scripts/GameScripts/GameBoard.cs
+  artifactKey: Guid(a115ce82750218348afe481a062a030e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mahjong/Scripts/GameScripts/GameBoard.cs using Guid(a115ce82750218348afe481a062a030e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '964c443bdf92475ebb7bfb6a24e6e47d') in 0.0004184 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 652.927648 seconds.
+  path: Assets/Mahjong/Prefabs/PopUps/ButtonCollectX2.prefab
+  artifactKey: Guid(733fce1a3b0cc9c43b24ef461d7e16c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mahjong/Prefabs/PopUps/ButtonCollectX2.prefab using Guid(733fce1a3b0cc9c43b24ef461d7e16c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Awake: HintHolder (Mkey.HintHolder) ;count: 5
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Mkey.HintHolder:Awake () (at Assets/Mahjong/Scripts/Holders/HintHolder.cs:44)
+
+(Filename: Assets/Mahjong/Scripts/Holders/HintHolder.cs Line: 44)
+
+Awake: ShuffleHolder (Mkey.ShuffleHolder) ;count: 5
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Mkey.ShuffleHolder:Awake () (at Assets/Mahjong/Scripts/Holders/ShuffleHolder.cs:44)
+
+(Filename: Assets/Mahjong/Scripts/Holders/ShuffleHolder.cs Line: 44)
+
+ -> (artifact id: '0a2e70747963a5bba5b2446cb71d7b04') in 0.0420771 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Mahjong/Prefabs/PopUps/SettingsPU.prefab
+  artifactKey: Guid(ea9710e9a4c24834fa5736276dd789b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mahjong/Prefabs/PopUps/SettingsPU.prefab using Guid(ea9710e9a4c24834fa5736276dd789b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1e727e33c51dd84ff2d6b4c53e068ec') in 0.0221834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 660
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Mahjong/Prefabs/PopUps/LoadGroupPU.prefab
+  artifactKey: Guid(27c83621becdd3d498833e3bd22b039d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mahjong/Prefabs/PopUps/LoadGroupPU.prefab using Guid(27c83621becdd3d498833e3bd22b039d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5ee27392f5e58ef38f9f274f675bbdcf') in 0.0026414 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Mahjong/Prefabs/PopUps/GetFreeShuffle.prefab
+  artifactKey: Guid(72166153e89e6774486603fb4a0cf71b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mahjong/Prefabs/PopUps/GetFreeShuffle.prefab using Guid(72166153e89e6774486603fb4a0cf71b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Awake: ShuffleHolder (Mkey.ShuffleHolder) ;count: 5
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Mkey.ShuffleHolder:Awake () (at Assets/Mahjong/Scripts/Holders/ShuffleHolder.cs:44)
+
+(Filename: Assets/Mahjong/Scripts/Holders/ShuffleHolder.cs Line: 44)
+
+ -> (artifact id: 'b4d4ab7934b43ad639d6bab6ac708f50') in 0.0057587 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 65
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.652054 seconds.
+  path: Assets/Mahjong/0_Common/Holders/0_GameLevelHolder/GameLevelHolder.asset
+  artifactKey: Guid(00adcd8d39cc84141b3778e390418dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mahjong/0_Common/Holders/0_GameLevelHolder/GameLevelHolder.asset using Guid(00adcd8d39cc84141b3778e390418dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Awake: GameLevelHolder (Mkey.GameLevelHolder) ;top passed level: -1
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Mkey.GameLevelHolder:Awake () (at Assets/Mahjong/Scripts/Holders/GameLevelHolder.cs:49)
+
+(Filename: Assets/Mahjong/Scripts/Holders/GameLevelHolder.cs Line: 49)
+
+ -> (artifact id: '2cec8f7fdf19e63ff40994b106a1cdb5') in 0.0029937 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009945 seconds.
+  path: Assets/IDosGamesSDK/Resources/Settings/IDosGamesSDKSettings.asset
+  artifactKey: Guid(a907b3e394f0fc44aa5fa27e2c52bcbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IDosGamesSDK/Resources/Settings/IDosGamesSDKSettings.asset using Guid(a907b3e394f0fc44aa5fa27e2c52bcbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '397293804f1b32e9c6cd55163b8afe93') in 0.0013212 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+Duplicate assembly 'BouncyCastle.Crypto.dll' with different versions detected, using 'Assets/iDosGamesSDK Modules/Crypto Wallet IGC/SolanaSDK/Packages/BouncyCastle.Crypto.dll, AssemblyName=BouncyCastle.Crypto, Version=1.9.0.0, Culture=neutral, PublicKeyToken=0e99375e54769942' and ignoring 'Assets/iDosGamesSDK Modules/Crypto Wallet IGC/Nethereum/BouncyCastle.Crypto.dll, AssemblyName=BouncyCastle.Crypto, Version=1.8.2.0, Culture=neutral, PublicKeyToken=0e99375e54769942'.- Loaded All Assemblies, in  0.601 seconds
+Refreshing native plugins compatible for Editor in 2.78 ms, found 4 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.419 seconds
+Domain Reload Profiling: 1020ms
+	BeginReloadAssembly (162ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (380ms)
+		LoadAssemblies (283ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (161ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (141ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (419ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (327ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (74ms)
+			ProcessInitializeOnLoadAttributes (210ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 2.59 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5810 unused Assets / (2.4 MB). Loaded Objects now: 6242.
+Memory consumption went from 113.5 MB to 111.1 MB.
+Total: 5.620800 ms (FindLiveObjects: 0.449000 ms CreateObjectMapping: 0.420000 ms MarkObjects: 3.176600 ms  DeleteObjects: 1.574600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

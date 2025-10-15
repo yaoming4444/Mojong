@@ -1,0 +1,4894 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp:
+    - IDosGames.IDosGamesSDKSettings
+    - IDosGames.ImageData
+    - IDosGames.ObjectInspection
+    - Mkey.GameConstructSet
+    - Mkey.GameObjectsSet
+    - Mkey.GameThemesHolder
+    - Mkey.GridCell
+    - Mkey.LevelConstructSet
+    - Mkey.MahjongTile
+    - Mkey.SpriteText
+    - Mkey.StartSound
+    - Mkey.ThemeSpritesHolder
+    - Mkey.TileTouchBehavior
+    Assembly-CSharp.dll:
+    - IDosGames.Analytics
+    - IDosGames.AppMetricaAnalytics
+    - IDosGames.AuthorizationPopUp
+    - IDosGames.AuthorizationPopUpView
+    - IDosGames.AutoHidePanelAfterDelay
+    - IDosGames.AutoLogin
+    - IDosGames.ConnectionErrorPopUp
+    - IDosGames.EmailRecoveryPopUp
+    - IDosGames.IDosGamesSDKSettings
+    - IDosGames.Loading
+    - IDosGames.LoadingPanel
+    - IDosGames.Message
+    - IDosGames.MessagePopUp
+    - IDosGames.PasswordVisibility
+    - IDosGames.RewardPopUp
+    - IDosGames.SceneSwitcher
+    - IDosGames.TouchBlocker
+    - IDosGames.UIImageUpdater
+    - IDosGames.VirtualCurrencyBar
+    - IDosGames.WebFunctionHandler
+    - Mkey.AchievementsController
+    - Mkey.AchievementsGUIController
+    - Mkey.AchievementsLine
+    - Mkey.AchievementsPU
+    - Mkey.AdsControl
+    - Mkey.AvatarsHolder
+    - Mkey.BannerControl
+    - Mkey.BoardHelper
+    - Mkey.ButtonClickSound
+    - Mkey.CoinsHolder
+    - Mkey.DelayDestroy
+    - Mkey.DontDestroyObj
+    - Mkey.FPS
+    - Mkey.FooterGUIController
+    - Mkey.GUIFlyer
+    - Mkey.GameBoard
+    - Mkey.GameConstructSet
+    - Mkey.GameConstructor
+    - Mkey.GameLevelHelper
+    - Mkey.GameLevelHolder
+    - Mkey.GameObjectToggle
+    - Mkey.GameObjectsSet
+    - Mkey.GameThemesHolder
+    - Mkey.GridCell
+    - Mkey.GuiController
+    - Mkey.GuiFader_v2
+    - Mkey.HeaderGUIController
+    - Mkey.HintHelper
+    - Mkey.HintHolder
+    - Mkey.ImageAspectRatioBehavior
+    - Mkey.IncDecInputPanel
+    - Mkey.Inspector_Button
+    - Mkey.LevelConstructSet
+    - Mkey.MahjongProfileWindowController
+    - Mkey.MahjongThemePU
+    - Mkey.MahjongTile
+    - Mkey.MatchGridRenderer
+    - Mkey.MatchSpritesAchievement
+    - Mkey.ModeButton
+    - Mkey.NextLevelButton
+    - Mkey.OpenURLButton
+    - Mkey.OutText
+    - Mkey.PanelContainerController
+    - Mkey.PlaySound
+    - Mkey.PlayerDataHolder
+    - Mkey.PopUpsController
+    - Mkey.PossibleMathesGUIController
+    - Mkey.ProfileAvatarButton
+    - Mkey.ProgressBarSlider
+    - Mkey.RewardChestLine
+    - Mkey.RewardChestPU
+    - Mkey.SceneLoadHelper
+    - Mkey.SceneLoader
+    - Mkey.ScoreController
+    - Mkey.ScoreGUIController
+    - Mkey.ScoreHolder
+    - Mkey.ScriptableHolder
+    - Mkey.ScrollPanelController
+    - Mkey.SettingsWindowController
+    - Mkey.ShowGuiPopUp
+    - Mkey.ShowInterstitialAd
+    - Mkey.ShowRewardedAd
+    - Mkey.ShuffleHelper
+    - Mkey.ShuffleHolder
+    - Mkey.SimpleSlider
+    - Mkey.SolidLineRenderer
+    - Mkey.SoundGUIController
+    - Mkey.SoundMaster
+    - Mkey.SpriteText
+    - Mkey.StartMapGuiController
+    - Mkey.StartSound
+    - Mkey.TargetFrameRate
+    - Mkey.Tester
+    - Mkey.ThemeButton
+    - Mkey.ThemeSpritesHolder
+    - Mkey.TileTouchBehavior
+    - Mkey.ToggleButton
+    - Mkey.TouchManager
+    - Mkey.TouchPad
+    - Mkey.TouchPadS
+    - Mkey.UIGradient
+    - Mkey.UndoMatch
+    - Mkey.UseShuffleAchievement
+    - Mkey.VictoryWindowController
+    - Mkey.WarningMessController
+    - Mkey.WinLevelAchievement
+    Unity.2D.Animation.Editor.dll:
+    - UnityEditor.U2D.Animation.BoneGizmo
+    Unity.2D.Animation.Runtime.dll:
+    - UnityEngine.U2D.Animation.DeformationManager
+    - UnityEngine.U2D.Animation.DeformationManagerUpdater
+    Unity.2D.IK.Editor.dll:
+    - UnityEditor.U2D.IK.IKEditorManager
+    Unity.2D.Tilemap.Editor.dll:
+    - UnityEditor.Tilemaps.GridPaintingState
+    - UnityEditor.Tilemaps.GridPaletteBrushes
+    - UnityEditor.Tilemaps.GridPalettes
+    - UnityEditor.Tilemaps.SceneViewGridManager
+    - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
+    - UnityEditor.Tilemaps.TileDragAndDropManager
+    - UnityEditor.Tilemaps.TilemapPrefabStageHelper
+    Unity.InputSystem.dll:
+    - UnityEngine.InputSystem.InputActionAsset
+    - UnityEngine.InputSystem.InputActionReference
+    - UnityEngine.InputSystem.InputSettings
+    - UnityEngine.InputSystem.InputSystemObject
+    - UnityEngine.InputSystem.RemoteInputPlayerConnection
+    - UnityEngine.InputSystem.UI.InputSystemUIInputModule
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.TextMeshPro:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_InputField
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    - TMPro.TextMeshProUGUI
+    Unity.Timeline.Editor.dll:
+    - TimelinePreferences
+    - UnityEditor.Timeline.SequenceHierarchy
+    - UnityEditor.Timeline.TimelineWindow
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.CommandLineTest.RunData
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.AspectRatioFitter
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.ContentSizeFitter
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.GridLayoutGroup
+    - UnityEngine.UI.HorizontalLayoutGroup
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.InputField
+    - UnityEngine.UI.LayoutElement
+    - UnityEngine.UI.Mask
+    - UnityEngine.UI.RectMask2D
+    - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Shadow
+    - UnityEngine.UI.Text
+    - UnityEngine.UI.VerticalLayoutGroup
+  serializedClasses:
+    Assembly-CSharp:
+    - IDosGames.ImageData/ImageTypeSpritePair
+    - IDosGames.ObjectInspectionData
+    - Mkey.FadeAnim
+    - Mkey.GCellObects
+    - Mkey.GridObjectState
+    - Mkey.MahjongSpritesGroup
+    - Mkey.MoveAnim
+    - Mkey.RatioToImage
+    - Mkey.RewardAd
+    - Mkey.ScaleAnim
+    - Mkey.WindowOpions
+    Unity.InputSystem:
+    - UnityEngine.InputSystem.InputAction
+    - UnityEngine.InputSystem.InputActionMap
+    - UnityEngine.InputSystem.InputBinding
+    - UnityEngine.InputSystem.InputControlScheme
+    - UnityEngine.InputSystem.InputControlScheme/DeviceRequirement
+    Unity.TextMeshPro:
+    - TMPro.FaceInfo_Legacy
+    - TMPro.FontAssetCreationSettings
+    - TMPro.KerningTable
+    - TMPro.TMP_Character
+    - TMPro.TMP_FontFeatureTable
+    - TMPro.TMP_FontWeightPair
+    - TMPro.TMP_InputField/OnChangeEvent
+    - TMPro.TMP_InputField/SelectionEvent
+    - TMPro.TMP_InputField/SubmitEvent
+    - TMPro.TMP_InputField/TextSelectionEvent
+    - TMPro.TMP_InputField/TouchScreenKeyboardEvent
+    - TMPro.TMP_Sprite
+    - TMPro.TMP_SpriteCharacter
+    - TMPro.TMP_SpriteGlyph
+    - TMPro.TMP_Style
+    - TMPro.VertexGradient
+    UnityEngine.CoreModule:
+    - UnityEngine.Events.ArgumentCache
+    - UnityEngine.Events.PersistentCallGroup
+    - UnityEngine.Events.PersistentListenerMode
+    - UnityEngine.Events.UnityEvent
+    - UnityEngine.Events.UnityEvent`1
+    - UnityEngine.RectOffset
+    UnityEngine.TextCoreFontEngineModule:
+    - UnityEngine.TextCore.FaceInfo
+    - UnityEngine.TextCore.Glyph
+    - UnityEngine.TextCore.GlyphMetrics
+    - UnityEngine.TextCore.GlyphRect
+    - UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord
+    - UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord
+    - UnityEngine.TextCore.LowLevel.GlyphValueRecord
+    UnityEngine.UI:
+    - UnityEngine.UI.AnimationTriggers
+    - UnityEngine.UI.Button/ButtonClickedEvent
+    - UnityEngine.UI.ColorBlock
+    - UnityEngine.UI.FontData
+    - UnityEngine.UI.InputField/EndEditEvent
+    - UnityEngine.UI.InputField/OnChangeEvent
+    - UnityEngine.UI.InputField/SubmitEvent
+    - UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+    - UnityEngine.UI.Navigation
+    - UnityEngine.UI.ScrollRect/ScrollRectEvent
+    - UnityEngine.UI.SpriteState
+  methodsToPreserve:
+  - assembly: Assembly-CSharp
+    fullTypeName: IDosGames.EmailRecoveryPopUp
+    methodName: SendResetPassword
+  - assembly: Assembly-CSharp
+    fullTypeName: IDosGames.AuthorizationPopUpView
+    methodName: CloseRecoveryPopUp
+  - assembly: Assembly-CSharp
+    fullTypeName: IDosGames.AuthorizationPopUpView
+    methodName: CloseRecoveryPopUp
+  - assembly: Assembly-CSharp
+    fullTypeName: IDosGames.AuthorizationPopUpView
+    methodName: ShowRecoveryPopUp
+  - assembly: Assembly-CSharp
+    fullTypeName: IDosGames.AuthorizationPopUpView
+    methodName: CloseMainPopUp
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: IDosGames.AutoLogin
+    methodName: AutoLoginWithDeviceID
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.SceneLoadHelper
+    methodName: LoadSceneByIndex
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PlaySound
+    methodName: PlayClip
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.SettingsWindowController
+    methodName: ToggleHiglihtMode
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.BoardHelper
+    methodName: RestartLevel
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PSlider
+    methodName: SetValueWithoutNotify
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ToggleButton
+    methodName: SetOnWithoutNotify
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetInvActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ToggleButton
+    methodName: SetOnWithoutNotify
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetInvActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetInvActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetInvActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShowGuiPopUp
+    methodName: ShowPopUp
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PSlider
+    methodName: AddAmount
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PSlider
+    methodName: AddAmount
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShowGuiPopUp
+    methodName: ShowPopUp
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.SoundGUIController
+    methodName: ToggleMusik
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PlaySound
+    methodName: PlayClip
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.SoundGUIController
+    methodName: SetVolume
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShowGuiPopUp
+    methodName: ShowPopUp
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.SoundGUIController
+    methodName: ToggleSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PlaySound
+    methodName: PlayClip
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.MahjongThemePU
+    methodName: Confirm_Click
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.OpenURLButton
+    methodName: Click
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.OpenURLButton
+    methodName: Click
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShowGuiPopUp
+    methodName: ShowPopUp
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.NextLevelButton
+    methodName: Click
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PSlider
+    methodName: SetValueWithoutNotify
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PSlider
+    methodName: SetValueWithoutNotify
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PSlider
+    methodName: SetValueWithoutNotify
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShowRewardedAd
+    methodName: Show
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.HintHolder
+    methodName: Add
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShuffleHolder
+    methodName: Add
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.HintHolder
+    methodName: Add
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShuffleHolder
+    methodName: Add
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.HintHolder
+    methodName: Add
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShuffleHolder
+    methodName: Add
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PSlider
+    methodName: SetValueWithoutNotify
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PSlider
+    methodName: SetValueWithoutNotify
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PSlider
+    methodName: SetValueWithoutNotify
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PlaySound
+    methodName: PlayClip
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.SettingsWindowController
+    methodName: ToggleHiglihtMode
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.BoardHelper
+    methodName: RestartLevel
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.BoardHelper
+    methodName: RestartLevel
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShuffleHelper
+    methodName: Shuffle_click
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.OutText
+    methodName: IntToText
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.OutText
+    methodName: IntToText
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PSlider
+    methodName: SetValueWithoutNotify
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ToggleButton
+    methodName: SetOnWithoutNotify
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetInvActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ToggleButton
+    methodName: SetOnWithoutNotify
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetInvActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetInvActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameObjectToggle
+    methodName: SetInvActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShowGuiPopUp
+    methodName: ShowPopUp
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShowRewardedAd
+    methodName: Show
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.HintHolder
+    methodName: Add
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShowRewardedAd
+    methodName: Show
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShuffleHolder
+    methodName: Add
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PSlider
+    methodName: AddAmount
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PSlider
+    methodName: AddAmount
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShowGuiPopUp
+    methodName: ShowPopUp
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.SoundGUIController
+    methodName: ToggleMusik
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PlaySound
+    methodName: PlayClip
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.SoundGUIController
+    methodName: SetVolume
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShowGuiPopUp
+    methodName: ShowPopUp
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.SoundGUIController
+    methodName: ToggleSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PlaySound
+    methodName: PlayClip
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.MahjongThemePU
+    methodName: Confirm_Click
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.OpenURLButton
+    methodName: Click
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.OpenURLButton
+    methodName: Click
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.PopUpsController
+    methodName: CloseWindow
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.Tester
+    methodName: AutoCollect
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.Tester
+    methodName: StopAutoCollect
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ModeButton
+    methodName: PrevLevel
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShowGuiPopUp
+    methodName: ShowPopUp
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.OutText
+    methodName: IntToText
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.UndoMatch
+    methodName: RestoreUndoState
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.SceneLoadHelper
+    methodName: LoadSceneByIndex
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameBoard
+    methodName: BreakLevelEventRaise
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.HintHelper
+    methodName: Select_Hint
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.OutText
+    methodName: IntToText
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.OutText
+    methodName: IntToText
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ModeButton
+    methodName: NextLevel
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameConstructor
+    methodName: RemoveLevel
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameConstructor
+    methodName: ScrollLevelButtons
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameConstructor
+    methodName: GotoLevel
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameConstructor
+    methodName: InsertAfter
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameConstructor
+    methodName: ScrollLevelButtons
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameConstructor
+    methodName: MoveTilesRight
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.OutText
+    methodName: IntToText
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.OutText
+    methodName: IntToText
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameConstructor
+    methodName: MoveTilesUp
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.ShuffleHelper
+    methodName: Shuffle_click
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameConstructor
+    methodName: OpenSettingsPanel_Click
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameConstructor
+    methodName: MoveTilesLeft
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameConstructor
+    methodName: OpenConstructPanel
+  - assembly: Assembly-CSharp
+    fullTypeName: Mkey.GameConstructor
+    methodName: MoveTilesDown
+  sceneClasses:
+    Assets/IDosGamesSDK/Scenes/Login.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 102
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 29814}
+    - Class: 114
+      Script: {instanceID: 29984}
+    - Class: 114
+      Script: {instanceID: 30016}
+    - Class: 114
+      Script: {instanceID: 30210}
+    - Class: 114
+      Script: {instanceID: 30326}
+    - Class: 114
+      Script: {instanceID: 30638}
+    - Class: 114
+      Script: {instanceID: 30642}
+    - Class: 114
+      Script: {instanceID: 30776}
+    - Class: 114
+      Script: {instanceID: 30952}
+    - Class: 114
+      Script: {instanceID: 30994}
+    - Class: 114
+      Script: {instanceID: 30998}
+    - Class: 114
+      Script: {instanceID: 31084}
+    - Class: 114
+      Script: {instanceID: 31156}
+    - Class: 114
+      Script: {instanceID: 31178}
+    - Class: 114
+      Script: {instanceID: 31614}
+    - Class: 114
+      Script: {instanceID: 31622}
+    - Class: 114
+      Script: {instanceID: 31784}
+    - Class: 114
+      Script: {instanceID: 32006}
+    - Class: 114
+      Script: {instanceID: 32114}
+    - Class: 114
+      Script: {instanceID: 32326}
+    - Class: 114
+      Script: {instanceID: 32964}
+    - Class: 114
+      Script: {instanceID: 33288}
+    - Class: 114
+      Script: {instanceID: 33570}
+    - Class: 114
+      Script: {instanceID: 33920}
+    - Class: 114
+      Script: {instanceID: 34414}
+    - Class: 114
+      Script: {instanceID: 34568}
+    - Class: 114
+      Script: {instanceID: 34758}
+    - Class: 114
+      Script: {instanceID: 34852}
+    - Class: 114
+      Script: {instanceID: 35882}
+    - Class: 114
+      Script: {instanceID: 36008}
+    - Class: 114
+      Script: {instanceID: 36530}
+    - Class: 114
+      Script: {instanceID: 36614}
+    - Class: 114
+      Script: {instanceID: 36734}
+    - Class: 114
+      Script: {instanceID: 37066}
+    - Class: 114
+      Script: {instanceID: 37382}
+    - Class: 114
+      Script: {instanceID: 37588}
+    - Class: 114
+      Script: {instanceID: 38882}
+    - Class: 114
+      Script: {instanceID: 38958}
+    - Class: 114
+      Script: {instanceID: 39014}
+    - Class: 114
+      Script: {instanceID: 39252}
+    - Class: 114
+      Script: {instanceID: 39374}
+    - Class: 114
+      Script: {instanceID: 39388}
+    - Class: 114
+      Script: {instanceID: 39516}
+    - Class: 114
+      Script: {instanceID: 39578}
+    - Class: 114
+      Script: {instanceID: 39968}
+    - Class: 114
+      Script: {instanceID: 40106}
+    - Class: 114
+      Script: {instanceID: 40240}
+    - Class: 114
+      Script: {instanceID: 40546}
+    - Class: 114
+      Script: {instanceID: 47340}
+    - Class: 114
+      Script: {instanceID: 47352}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Mahjong/Scenes/0_Splash.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 102
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 29814}
+    - Class: 114
+      Script: {instanceID: 30016}
+    - Class: 114
+      Script: {instanceID: 30224}
+    - Class: 114
+      Script: {instanceID: 30234}
+    - Class: 114
+      Script: {instanceID: 30442}
+    - Class: 114
+      Script: {instanceID: 30564}
+    - Class: 114
+      Script: {instanceID: 30826}
+    - Class: 114
+      Script: {instanceID: 30842}
+    - Class: 114
+      Script: {instanceID: 31054}
+    - Class: 114
+      Script: {instanceID: 31084}
+    - Class: 114
+      Script: {instanceID: 31156}
+    - Class: 114
+      Script: {instanceID: 31178}
+    - Class: 114
+      Script: {instanceID: 31392}
+    - Class: 114
+      Script: {instanceID: 31622}
+    - Class: 114
+      Script: {instanceID: 31764}
+    - Class: 114
+      Script: {instanceID: 31916}
+    - Class: 114
+      Script: {instanceID: 32006}
+    - Class: 114
+      Script: {instanceID: 32114}
+    - Class: 114
+      Script: {instanceID: 33566}
+    - Class: 114
+      Script: {instanceID: 34852}
+    - Class: 114
+      Script: {instanceID: 35694}
+    - Class: 114
+      Script: {instanceID: 35882}
+    - Class: 114
+      Script: {instanceID: 36008}
+    - Class: 114
+      Script: {instanceID: 36178}
+    - Class: 114
+      Script: {instanceID: 36572}
+    - Class: 114
+      Script: {instanceID: 36664}
+    - Class: 114
+      Script: {instanceID: 37164}
+    - Class: 114
+      Script: {instanceID: 37242}
+    - Class: 114
+      Script: {instanceID: 38258}
+    - Class: 114
+      Script: {instanceID: 38302}
+    - Class: 114
+      Script: {instanceID: 38660}
+    - Class: 114
+      Script: {instanceID: 38682}
+    - Class: 114
+      Script: {instanceID: 38882}
+    - Class: 114
+      Script: {instanceID: 38904}
+    - Class: 114
+      Script: {instanceID: 39488}
+    - Class: 114
+      Script: {instanceID: 39578}
+    - Class: 114
+      Script: {instanceID: 39968}
+    - Class: 114
+      Script: {instanceID: 40158}
+    - Class: 114
+      Script: {instanceID: 40188}
+    - Class: 114
+      Script: {instanceID: 40546}
+    - Class: 114
+      Script: {instanceID: 40900}
+    - Class: 114
+      Script: {instanceID: 41064}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Mahjong/Scenes/1_Map_Simple.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 102
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 29814}
+    - Class: 114
+      Script: {instanceID: 29984}
+    - Class: 114
+      Script: {instanceID: 30000}
+    - Class: 114
+      Script: {instanceID: 30016}
+    - Class: 114
+      Script: {instanceID: 30210}
+    - Class: 114
+      Script: {instanceID: 30224}
+    - Class: 114
+      Script: {instanceID: 30234}
+    - Class: 114
+      Script: {instanceID: 30280}
+    - Class: 114
+      Script: {instanceID: 30442}
+    - Class: 114
+      Script: {instanceID: 30826}
+    - Class: 114
+      Script: {instanceID: 30842}
+    - Class: 114
+      Script: {instanceID: 31054}
+    - Class: 114
+      Script: {instanceID: 31084}
+    - Class: 114
+      Script: {instanceID: 31152}
+    - Class: 114
+      Script: {instanceID: 31156}
+    - Class: 114
+      Script: {instanceID: 31178}
+    - Class: 114
+      Script: {instanceID: 31392}
+    - Class: 114
+      Script: {instanceID: 31622}
+    - Class: 114
+      Script: {instanceID: 31724}
+    - Class: 114
+      Script: {instanceID: 31764}
+    - Class: 114
+      Script: {instanceID: 32006}
+    - Class: 114
+      Script: {instanceID: 32106}
+    - Class: 114
+      Script: {instanceID: 32114}
+    - Class: 114
+      Script: {instanceID: 32208}
+    - Class: 114
+      Script: {instanceID: 32326}
+    - Class: 114
+      Script: {instanceID: 32454}
+    - Class: 114
+      Script: {instanceID: 32894}
+    - Class: 114
+      Script: {instanceID: 32966}
+    - Class: 114
+      Script: {instanceID: 33276}
+    - Class: 114
+      Script: {instanceID: 33288}
+    - Class: 114
+      Script: {instanceID: 33382}
+    - Class: 114
+      Script: {instanceID: 33450}
+    - Class: 114
+      Script: {instanceID: 33528}
+    - Class: 114
+      Script: {instanceID: 33566}
+    - Class: 114
+      Script: {instanceID: 33570}
+    - Class: 114
+      Script: {instanceID: 33712}
+    - Class: 114
+      Script: {instanceID: 33722}
+    - Class: 114
+      Script: {instanceID: 34106}
+    - Class: 114
+      Script: {instanceID: 34414}
+    - Class: 114
+      Script: {instanceID: 34728}
+    - Class: 114
+      Script: {instanceID: 34852}
+    - Class: 114
+      Script: {instanceID: 35490}
+    - Class: 114
+      Script: {instanceID: 35660}
+    - Class: 114
+      Script: {instanceID: 35866}
+    - Class: 114
+      Script: {instanceID: 35882}
+    - Class: 114
+      Script: {instanceID: 36008}
+    - Class: 114
+      Script: {instanceID: 36178}
+    - Class: 114
+      Script: {instanceID: 36272}
+    - Class: 114
+      Script: {instanceID: 36572}
+    - Class: 114
+      Script: {instanceID: 36664}
+    - Class: 114
+      Script: {instanceID: 37164}
+    - Class: 114
+      Script: {instanceID: 37242}
+    - Class: 114
+      Script: {instanceID: 37702}
+    - Class: 114
+      Script: {instanceID: 37760}
+    - Class: 114
+      Script: {instanceID: 38218}
+    - Class: 114
+      Script: {instanceID: 38258}
+    - Class: 114
+      Script: {instanceID: 38302}
+    - Class: 114
+      Script: {instanceID: 38660}
+    - Class: 114
+      Script: {instanceID: 38682}
+    - Class: 114
+      Script: {instanceID: 38882}
+    - Class: 114
+      Script: {instanceID: 38902}
+    - Class: 114
+      Script: {instanceID: 38904}
+    - Class: 114
+      Script: {instanceID: 38950}
+    - Class: 114
+      Script: {instanceID: 38998}
+    - Class: 114
+      Script: {instanceID: 39314}
+    - Class: 114
+      Script: {instanceID: 39488}
+    - Class: 114
+      Script: {instanceID: 39536}
+    - Class: 114
+      Script: {instanceID: 39578}
+    - Class: 114
+      Script: {instanceID: 39818}
+    - Class: 114
+      Script: {instanceID: 39834}
+    - Class: 114
+      Script: {instanceID: 39968}
+    - Class: 114
+      Script: {instanceID: 40072}
+    - Class: 114
+      Script: {instanceID: 40158}
+    - Class: 114
+      Script: {instanceID: 40188}
+    - Class: 114
+      Script: {instanceID: 40240}
+    - Class: 114
+      Script: {instanceID: 40372}
+    - Class: 114
+      Script: {instanceID: 40500}
+    - Class: 114
+      Script: {instanceID: 40546}
+    - Class: 114
+      Script: {instanceID: 40900}
+    - Class: 114
+      Script: {instanceID: 41064}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Mahjong/Scenes/2_Game_Constructor.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 102
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 29814}
+    - Class: 114
+      Script: {instanceID: 30016}
+    - Class: 114
+      Script: {instanceID: 30024}
+    - Class: 114
+      Script: {instanceID: 30224}
+    - Class: 114
+      Script: {instanceID: 30234}
+    - Class: 114
+      Script: {instanceID: 30280}
+    - Class: 114
+      Script: {instanceID: 30442}
+    - Class: 114
+      Script: {instanceID: 30564}
+    - Class: 114
+      Script: {instanceID: 30826}
+    - Class: 114
+      Script: {instanceID: 30842}
+    - Class: 114
+      Script: {instanceID: 31002}
+    - Class: 114
+      Script: {instanceID: 31054}
+    - Class: 114
+      Script: {instanceID: 31084}
+    - Class: 114
+      Script: {instanceID: 31152}
+    - Class: 114
+      Script: {instanceID: 31156}
+    - Class: 114
+      Script: {instanceID: 31178}
+    - Class: 114
+      Script: {instanceID: 31268}
+    - Class: 114
+      Script: {instanceID: 31392}
+    - Class: 114
+      Script: {instanceID: 31420}
+    - Class: 114
+      Script: {instanceID: 31482}
+    - Class: 114
+      Script: {instanceID: 31622}
+    - Class: 114
+      Script: {instanceID: 31724}
+    - Class: 114
+      Script: {instanceID: 31824}
+    - Class: 114
+      Script: {instanceID: 31836}
+    - Class: 114
+      Script: {instanceID: 32006}
+    - Class: 114
+      Script: {instanceID: 32106}
+    - Class: 114
+      Script: {instanceID: 32114}
+    - Class: 114
+      Script: {instanceID: 32326}
+    - Class: 114
+      Script: {instanceID: 32696}
+    - Class: 114
+      Script: {instanceID: 32802}
+    - Class: 114
+      Script: {instanceID: 32894}
+    - Class: 114
+      Script: {instanceID: 32966}
+    - Class: 114
+      Script: {instanceID: 33450}
+    - Class: 114
+      Script: {instanceID: 33566}
+    - Class: 114
+      Script: {instanceID: 33570}
+    - Class: 114
+      Script: {instanceID: 33674}
+    - Class: 114
+      Script: {instanceID: 33712}
+    - Class: 114
+      Script: {instanceID: 34106}
+    - Class: 114
+      Script: {instanceID: 34126}
+    - Class: 114
+      Script: {instanceID: 34324}
+    - Class: 114
+      Script: {instanceID: 34822}
+    - Class: 114
+      Script: {instanceID: 34852}
+    - Class: 114
+      Script: {instanceID: 35660}
+    - Class: 114
+      Script: {instanceID: 35694}
+    - Class: 114
+      Script: {instanceID: 35730}
+    - Class: 114
+      Script: {instanceID: 35760}
+    - Class: 114
+      Script: {instanceID: 35866}
+    - Class: 114
+      Script: {instanceID: 35882}
+    - Class: 114
+      Script: {instanceID: 36008}
+    - Class: 114
+      Script: {instanceID: 36178}
+    - Class: 114
+      Script: {instanceID: 36326}
+    - Class: 114
+      Script: {instanceID: 36572}
+    - Class: 114
+      Script: {instanceID: 36664}
+    - Class: 114
+      Script: {instanceID: 36730}
+    - Class: 114
+      Script: {instanceID: 36938}
+    - Class: 114
+      Script: {instanceID: 36976}
+    - Class: 114
+      Script: {instanceID: 37164}
+    - Class: 114
+      Script: {instanceID: 37242}
+    - Class: 114
+      Script: {instanceID: 37442}
+    - Class: 114
+      Script: {instanceID: 37446}
+    - Class: 114
+      Script: {instanceID: 37760}
+    - Class: 114
+      Script: {instanceID: 37986}
+    - Class: 114
+      Script: {instanceID: 38218}
+    - Class: 114
+      Script: {instanceID: 38258}
+    - Class: 114
+      Script: {instanceID: 38302}
+    - Class: 114
+      Script: {instanceID: 38346}
+    - Class: 114
+      Script: {instanceID: 38660}
+    - Class: 114
+      Script: {instanceID: 38682}
+    - Class: 114
+      Script: {instanceID: 38882}
+    - Class: 114
+      Script: {instanceID: 38904}
+    - Class: 114
+      Script: {instanceID: 38950}
+    - Class: 114
+      Script: {instanceID: 38998}
+    - Class: 114
+      Script: {instanceID: 39314}
+    - Class: 114
+      Script: {instanceID: 39488}
+    - Class: 114
+      Script: {instanceID: 39536}
+    - Class: 114
+      Script: {instanceID: 39578}
+    - Class: 114
+      Script: {instanceID: 39714}
+    - Class: 114
+      Script: {instanceID: 39968}
+    - Class: 114
+      Script: {instanceID: 40072}
+    - Class: 114
+      Script: {instanceID: 40158}
+    - Class: 114
+      Script: {instanceID: 40188}
+    - Class: 114
+      Script: {instanceID: 40500}
+    - Class: 114
+      Script: {instanceID: 40546}
+    - Class: 114
+      Script: {instanceID: 40900}
+    - Class: 114
+      Script: {instanceID: 41064}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: e773265e06e0445f8323a36d3ae20158
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: LeaderboardView
+  - hash:
+      serializedVersion: 2
+      Hash: 7bc1952cf05813dee2927deba2f41ed5
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: TitleScreenBehavior
+  - hash:
+      serializedVersion: 2
+      Hash: bc430b3b1329508da1b8dc45fbd37a06
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ThemeSpritesHolder
+  - hash:
+      serializedVersion: 2
+      Hash: 72015dd39207cdfd8f5c5a31f69639cf
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.Friends
+    className: UserFriendsPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 7e84aeabd1de5bb8730bbb9719aced90
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: AccountInfoView
+  - hash:
+      serializedVersion: 2
+      Hash: b2d2a01a2a85d9ed12e80cb33a9a6044
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: e54dd0720e405ebe9b263ed0adfbc02a
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SettingsPopUpView
+  - hash:
+      serializedVersion: 2
+      Hash: 86dbb17f881954f07ae5bc215856a222
+    assemblyName: UniTask
+    namespaceName: Cysharp.Threading.Tasks.Triggers
+    className: AsyncDestroyTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 2514f261eb249e5081ebb002a5bb0628
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WalletContractsPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: 4d39d0b8e90a609be0dfe476dbfba601
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WeeklyEventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: be6a7898a1957a26cc16f1bfdd69c21e
+    assemblyName: UniTask
+    namespaceName: Cysharp.Threading.Tasks.Triggers
+    className: AsyncStartTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: cf62aad97f6c2dd5d482e2509c6c9528
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 2dd2051277779d12406c34077f3a6513
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: NextLevelButton
+  - hash:
+      serializedVersion: 2
+      Hash: 44fbb4d5b6ec97ef5f1e8f1c7d3f2055
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: LeaderboardRankReward
+  - hash:
+      serializedVersion: 2
+      Hash: 3d6c128cf6084f8dd77b4727635d3985
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WalletSkinInventoryPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: 43ae6f7fd3463fa4966d938b81edda4d
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: LevelConstructSet
+  - hash:
+      serializedVersion: 2
+      Hash: 18f40c19df0ceec2af6f3095d74021e0
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SpinButton
+  - hash:
+      serializedVersion: 2
+      Hash: 444811a404d37696591dae6671480368
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: UIGradient
+  - hash:
+      serializedVersion: 2
+      Hash: e20a6de5f1fd1dfae6f1186e8f77c3d9
+    assemblyName: Unity.2D.Animation.Runtime
+    namespaceName: UnityEngine.U2D.Animation
+    className: SpriteResolver
+  - hash:
+      serializedVersion: 2
+      Hash: 2c583ad0ac85d03e8700dd05fdcb46cb
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: Variables
+  - hash:
+      serializedVersion: 2
+      Hash: 29362692ab8b7c46bfb7c8cb42bfe5b4
+    assemblyName: Unity.2D.Animation.Runtime
+    namespaceName: UnityEngine.U2D.Animation
+    className: SpriteLibrarySourceAsset
+  - hash:
+      serializedVersion: 2
+      Hash: ece8f3fdd930a51b7f3abed00c811a9f
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ArrowMultiplicator
+  - hash:
+      serializedVersion: 2
+      Hash: ed8e62f07ec878233f5493a335003493
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.UI
+    className: VirtualMouseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 8d8b24a2624c338eaf3467358f7fa33a
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: LeaderboardRow
+  - hash:
+      serializedVersion: 2
+      Hash: ec59bc56f69d3d13d1fc9d3e087fb56d
+    assemblyName: Unity.2D.Animation.Runtime
+    namespaceName: UnityEngine.U2D.Animation
+    className: SkeletonAsset
+  - hash:
+      serializedVersion: 2
+      Hash: a2469a94fb2ce6621cc0708d4136f5eb
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: UIImageUpdater
+  - hash:
+      serializedVersion: 2
+      Hash: 9f82759edcb78f9076c050c619da9e9d
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: WarningMessController
+  - hash:
+      serializedVersion: 2
+      Hash: dd3a2e499abeecff87ea9a3a7063c014
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ScoreHolder
+  - hash:
+      serializedVersion: 2
+      Hash: 8585116c5a23ec4c83926a3d84a1a07d
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.UserProfile
+    className: AvatarItem
+  - hash:
+      serializedVersion: 2
+      Hash: 0f2082106fe36d198cc52c33c4640d34
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: FreeSpinTicketTimer
+  - hash:
+      serializedVersion: 2
+      Hash: b9404a1bead62725906b97daa22b9fe0
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputDebuggerWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 6221e63ce706f22a82fca8198fe2d193
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: AdBanner
+  - hash:
+      serializedVersion: 2
+      Hash: 9ebc0a3016506a0cbb7e0306dfcb9497
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: DictionaryAsset
+  - hash:
+      serializedVersion: 2
+      Hash: e7e95903ca66d58e1a7cbd71f824e16d
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 6a641495a2e15407d13518519fc04290
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ThemeButton
+  - hash:
+      serializedVersion: 2
+      Hash: 0370b9f95798139b666659c7e1be6147
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.UI
+    className: BaseInputOverride
+  - hash:
+      serializedVersion: 2
+      Hash: c27554f9feec0ec62923b4c200a63b9e
+    assemblyName: Unity.2D.IK.Runtime
+    namespaceName: UnityEngine.U2D.IK
+    className: CCDSolver2D
+  - hash:
+      serializedVersion: 2
+      Hash: 1d7a56d77c42097686799ae069f5de2d
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: Timer
+  - hash:
+      serializedVersion: 2
+      Hash: de85e65d07f4d1e9560fffbcec243013
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: Loading
+  - hash:
+      serializedVersion: 2
+      Hash: 0c0b64d103fe555d830e8ca206abd12a
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTriggerExitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 5853689a3479946eee2b8547c1f13d3c
+    assemblyName: Unity.2D.Animation.Runtime
+    namespaceName: UnityEngine.U2D.Animation
+    className: DeformationManagerUpdater
+  - hash:
+      serializedVersion: 2
+      Hash: febcfbf0a0d85e37808a3740e3c2c6fa
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a119221a1c3d590645a52df2cbebb41c
+    assemblyName: Unity.2D.Tilemap.Extras
+    namespaceName: UnityEngine
+    className: HexagonalRuleTile
+  - hash:
+      serializedVersion: 2
+      Hash: 6c8851fe4709f401896e36a57ae66c7d
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: DailyOffersTimer
+  - hash:
+      serializedVersion: 2
+      Hash: 2f5b31f26ecd4443d790d6b764ad2291
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PanelGroupedOffers
+  - hash:
+      serializedVersion: 2
+      Hash: daeac1347f8039f61cd4017ff33bd3c6
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.UI
+    className: InputSystemUIInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 8b15e35eb98fc258ec2e839df7c3c9b0
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: cbec17cb2f8b4ec77c1aad2156505f97
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: SimpleTween
+  - hash:
+      serializedVersion: 2
+      Hash: e77ef87a5c30083425017730d97fd8e2
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: SceneLoadHelper
+  - hash:
+      serializedVersion: 2
+      Hash: 64ce7168596d0f903cfb6b140be410d5
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.Friends
+    className: FriendRequestItem
+  - hash:
+      serializedVersion: 2
+      Hash: 709e7a14fd69c48de1a0f460ef868042
+    assemblyName: Unity.2D.Tilemap.Extras
+    namespaceName: UnityEngine.Tilemaps
+    className: AdvancedRuleOverrideTile
+  - hash:
+      serializedVersion: 2
+      Hash: 5d95407a9adb4e92bf0b413c3d793233
+    assemblyName: Unity.2D.Tilemap.Extras
+    namespaceName: UnityEngine.Tilemaps
+    className: AutoTile
+  - hash:
+      serializedVersion: 2
+      Hash: 17dbf18211a254492d3a6e0c744efed6
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SkinInspectionRoom
+  - hash:
+      serializedVersion: 2
+      Hash: 682dfc653b22feea53b38adb3bc66414
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: bfa9d6dfbc3c74a843a3b197bdcc6639
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 073531948e478ee08523a6e280b51771
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: AppMetricaAnalytics
+  - hash:
+      serializedVersion: 2
+      Hash: db9b308769d19e1f9e161df0392c23ca
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTransformChildrenChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 72b4779b8c04d14538bd11c2022725a8
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PanelPlayerActiveOffers
+  - hash:
+      serializedVersion: 2
+      Hash: 9dd54ce33440072d6692a67e0c384ad1
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: c5ba6dfc2fda3441c8607493cf55be58
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: InitialDataLoader
+  - hash:
+      serializedVersion: 2
+      Hash: f669be52680c88846b2093fd41d1e06e
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnDragMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 20a120e55ad3ab65556328d5fd8309dd
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: e49ed75affa6d3f1fafb01144a2e732f
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: EmailRecoveryPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: 166a74e4404f4fd567605eb6f14bc3dd
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WalletButton
+  - hash:
+      serializedVersion: 2
+      Hash: 2bbd05175d4cdd21e24f9716cdd24f83
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.XR
+    className: TrackedPoseDriver
+  - hash:
+      serializedVersion: 2
+      Hash: b2f61f7069dd23f43ededdb809c1e66a
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: AvatarsHolder
+  - hash:
+      serializedVersion: 2
+      Hash: 0ddb400f0dbc4bdd60f447d3f3e512a0
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GuiController
+  - hash:
+      serializedVersion: 2
+      Hash: b2572baa46aef0b6e28a068f5e46eaea
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WalletWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 938e6949bc3df96f7e7c6819e78ff49a
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ChestSounds
+  - hash:
+      serializedVersion: 2
+      Hash: 14bb9f056f1b84633370aee7126b3901
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.UserProfile
+    className: UserInfoPanel
+  - hash:
+      serializedVersion: 2
+      Hash: def2b83ca9218da9312edd3043cfe12b
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SkinInventoryItem
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc343c0d3b358336e62ef89566eb89e
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: RotateObject
+  - hash:
+      serializedVersion: 2
+      Hash: c05ac5e82552406411d6f7e3898b79e0
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.UserProfile
+    className: AvatarItemsPanel
+  - hash:
+      serializedVersion: 2
+      Hash: b51c991e8346cc0cda44d262e759971a
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ImageData
+  - hash:
+      serializedVersion: 2
+      Hash: d50efd7dee26903b502ab87597b5e547
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PanelReferralQR
+  - hash:
+      serializedVersion: 2
+      Hash: ef80362221662882ddd4640ddee267be
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: AlarmSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 97a4552d179515aebab94edc72bdd141
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: GenerateAccountScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 0b23c941cd736d7bb63f88e209388455
+    assemblyName: com.solana.unity_sdk
+    namespaceName: Solana.Unity.SDK
+    className: Web3
+  - hash:
+      serializedVersion: 2
+      Hash: 176a18b8669bbb9199fa3a2bbac9f601
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ExternalWalletAddressChanger
+  - hash:
+      serializedVersion: 2
+      Hash: 389c4527ac1e03b2728c312ec948dc2e
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: MainSceneViewObjects
+  - hash:
+      serializedVersion: 2
+      Hash: 873f7ad92132524a1761bddc42da17e3
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: AutoHidePanelAfterDelay
+  - hash:
+      serializedVersion: 2
+      Hash: e6ee7dccba41ae87d10e3d922c6cb71c
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: ee61c2d826f57b131db89df8dcf70c1f
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: Tester
+  - hash:
+      serializedVersion: 2
+      Hash: 522f6865b4ec12522e602206785309f8
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: GlobalMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 53e329840e6d03aebec76623c3b054db
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 42cc24bcc8aa6f200372f09dc097aa39
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ShuffleHolder
+  - hash:
+      serializedVersion: 2
+      Hash: 8190c24d387e41d8e3e2aa2eb5afedf0
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: SpriteText
+  - hash:
+      serializedVersion: 2
+      Hash: ee34255e3e86289bde9bad5e07b84cbc
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnScrollRectValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 9a0f54008e35ac24a98a28a219616217
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SecondarySpinPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 126fd89d65430ef62c49f18bb844b598
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: DotPageObject
+  - hash:
+      serializedVersion: 2
+      Hash: 47d50f529890b9237021f88334dc1cf6
+    assemblyName: Unity.2D.Animation.Runtime
+    namespaceName: UnityEngine.U2D.Animation
+    className: SpriteLibraryAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 469a2e739f94fcf301113d5e0d2d5805
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GameObjectToggle
+  - hash:
+      serializedVersion: 2
+      Hash: e2da7f12971db2a61a2885b06f4aa5c6
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GridCell
+  - hash:
+      serializedVersion: 2
+      Hash: dd9dda1dfd39e605c49e72003342ef5d
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 5a05675e5b5c0c8c190a444786eea8f4
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.HID.Editor
+    className: HIDDescriptorWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 562cc19df4ca1492f3db45e58881cd28
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ScoreController
+  - hash:
+      serializedVersion: 2
+      Hash: d84ea6aae3ece129145dd37b6b2a1c08
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: CoinTickerText
+  - hash:
+      serializedVersion: 2
+      Hash: 7bdff9e91edfd9600f92a185def7e34a
+    assemblyName: Unity.VisualScripting.Flow
+    namespaceName: Unity.VisualScripting
+    className: ScriptMachine
+  - hash:
+      serializedVersion: 2
+      Hash: 907e052c0903f314fa4c6bd239016d0c
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SpinWheel
+  - hash:
+      serializedVersion: 2
+      Hash: 0a3f328f3ea906bbbcf794f4c27ee59d
+    assemblyName: Unity.VisualScripting.Flow
+    namespaceName: Unity.VisualScripting
+    className: ScriptGraphAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 6fa387d142df5a33726983d1fcbd5bab
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SecondarySpinButton
+  - hash:
+      serializedVersion: 2
+      Hash: 73707dd24af053d88322ad9a735a180a
+    assemblyName: Unity.2D.Tilemap.Extras
+    namespaceName: UnityEngine.Tilemaps
+    className: GridInformation
+  - hash:
+      serializedVersion: 2
+      Hash: 33f160a5c07e580c29aba2bd1e4db811
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: ab249af611e8422dbd93a7805a59c7de
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.UserProfile
+    className: InspectAvatar
+  - hash:
+      serializedVersion: 2
+      Hash: 5d0a54d4bb8d0c4655bb2cc3e3c415ce
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ShopPopUpSystem
+  - hash:
+      serializedVersion: 2
+      Hash: f3bf1fd0a3aa749e88bd50b1bd6f3daa
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ScrollPanelController
+  - hash:
+      serializedVersion: 2
+      Hash: 153900cc71270ba1a8b2adb4b068138c
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.UserProfile
+    className: GenderSwitcher
+  - hash:
+      serializedVersion: 2
+      Hash: 118c03d605abe660efcefeafd54bc7d1
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ButtonWithOptionalIcon
+  - hash:
+      serializedVersion: 2
+      Hash: b87547877f7bea0dd59c10bfb798b858
+    assemblyName: Unity.2D.Tilemap.Extras
+    namespaceName: UnityEngine
+    className: IsometricRuleTile
+  - hash:
+      serializedVersion: 2
+      Hash: e8dbdc5dbc3403c587bcdbf1ffca7fe2
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: HintHelper
+  - hash:
+      serializedVersion: 2
+      Hash: b291e97070d9c990c9fcad00dd5e80e7
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SecondarySpinPopupClose
+  - hash:
+      serializedVersion: 2
+      Hash: 009f5f60b13408ae1a38805e4bc70ef4
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: FreeSpinButtonView
+  - hash:
+      serializedVersion: 2
+      Hash: 0b3e5f4c5e568d596c0571b9148ed7e7
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ApplicationUpdateSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 0a09458d00c210071cf8794e7c017e47
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SpinSectorItem
+  - hash:
+      serializedVersion: 2
+      Hash: c4cdb902228df56d5b2b639d6a6bbd3c
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem
+    className: PlayerInputManager
+  - hash:
+      serializedVersion: 2
+      Hash: 1bc6ff8d02d2d68019aa6a028f8d409d
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnPointerUpMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 0805ba0fe80c0274dce2419d72123127
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: Purchaser
+  - hash:
+      serializedVersion: 2
+      Hash: d0bd4c8a8ebe93eb6d74a09f4f5d9c30
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WalletManager
+  - hash:
+      serializedVersion: 2
+      Hash: fc853a48675b5d1d0427c0750735058b
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: AuthorizationPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: e987953190eb4c12cf19df790566dc2c
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: e8a7360b00a840813ecd40b2c39acb83
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PopUpLeaderboardRewards
+  - hash:
+      serializedVersion: 2
+      Hash: 3c7aadad7d4cbe53dbab4f36d0a35de2
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ScrollRectVerticalPositionResetter
+  - hash:
+      serializedVersion: 2
+      Hash: 624696592c773fd41c20b0097cf57bc8
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PopUpApplicationUpdateView
+  - hash:
+      serializedVersion: 2
+      Hash: 6a41530478d076d44f34e6238c446cfe
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ShopWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 0bc7ef1b7516f21320ec49bfd31eef2e
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.UI
+    className: TrackedDeviceRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 5749919609ce8d9ca5cbfb82b37e91d3
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: URLOpener
+  - hash:
+      serializedVersion: 2
+      Hash: abc02d5cbfd5dcde2990d7bed14dfec2
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: Screenshoter
+  - hash:
+      serializedVersion: 2
+      Hash: 8d37b4a7caae75944cf2ed2fb2438ca2
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ShowGuiPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: c0dd591fde6e34cfc50b3d64b234cd54
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ExampleAdditionalInspectionObject
+  - hash:
+      serializedVersion: 2
+      Hash: 33656f83bb0079184b2206a69690ec46
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: da5a949a0bbd2ff91bc51c5805c2c41f
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseUpAsButtonMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 9104447b683bf70406fa01f12ecb564a
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: a92561298b80715aa69e8fa770123cb5
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.UI.Editor
+    className: InputSystemUIInputModuleEditor
+  - hash:
+      serializedVersion: 2
+      Hash: c58678e1bdd0ca4bd46de89b505e661b
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: FPS
+  - hash:
+      serializedVersion: 2
+      Hash: 59e26523a3b226d99694318028fe4fc1
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: SwapScreenAggregator
+  - hash:
+      serializedVersion: 2
+      Hash: 3c9686445a85449bbb2a955c0f459b00
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: Inspector_Button
+  - hash:
+      serializedVersion: 2
+      Hash: e97abb4e35b7dfeff7ea8f6c842e1127
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ShopSpecialOfferItem
+  - hash:
+      serializedVersion: 2
+      Hash: b14e186823458f549289789cccbb77ce
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnPointerDownMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 67272c9c30c50b68ef1ce72ac0191c57
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMoveMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: c4b9212937131a650be9eee0c88c5b56
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.Friends
+    className: RecommendedFriendPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 3262b381ace6e3cc08eed94dab699dc4
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PopUpWeeklyEventRewards
+  - hash:
+      serializedVersion: 2
+      Hash: 381641b5c0be03e9f8e774c4d6267e1e
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: TargetFrameRate
+  - hash:
+      serializedVersion: 2
+      Hash: 98bfe795fc0615ea35fb628506904035
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SubscriptionTrialObjects
+  - hash:
+      serializedVersion: 2
+      Hash: 191c3402cd43ee08f0a96795440c294e
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: AdvancedDropdownWindow
+  - hash:
+      serializedVersion: 2
+      Hash: edebf00e3d495117de1a6712629a9e3d
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.Friends
+    className: RecomendedFriendItem
+  - hash:
+      serializedVersion: 2
+      Hash: e46b9e37c14f3ec9a4474bc09639aab6
+    assemblyName: com.solana.unity_sdk
+    namespaceName: Solana.Unity.SDK
+    className: WalletAdapterScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 915204dac8acad99f076d6e72ada0a0f
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: 95426d463074947dcbffc797c44e779c
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.UI.Editor
+    className: StandaloneInputModuleModuleEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 4757e48fcf39fc7306312ef98411d6cd
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PopUpReward
+  - hash:
+      serializedVersion: 2
+      Hash: 46703e3f511e9bd433dcb1add8c55550
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PopUpInstallCryptoWallet
+  - hash:
+      serializedVersion: 2
+      Hash: f11e42073cd845af1c31076c55eee841
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: SoundMaster
+  - hash:
+      serializedVersion: 2
+      Hash: c40862fc23d893f42d6a103f9821eab7
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GameThemesHolder
+  - hash:
+      serializedVersion: 2
+      Hash: b3a31b43a55acb366ded764565e2cef4
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: VIPItem
+  - hash:
+      serializedVersion: 2
+      Hash: e63fe08659e7e4647a51098c666f8845
+    assemblyName: Unity.InputSystem
+    namespaceName: 
+    className: DownloadableSample
+  - hash:
+      serializedVersion: 2
+      Hash: afb7b65d28d5a7423e69a1b076be0064
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: 4728e3d21cc2a12e391e71ec9b7eed0b
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 2ee075b7a8b2fce8078af87388f833aa
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: IncDecInputPanel
+  - hash:
+      serializedVersion: 2
+      Hash: b30c8635462e66ac20f4241106119f77
+    assemblyName: Unity.VisualScripting.State
+    namespaceName: Unity.VisualScripting
+    className: StateMachine
+  - hash:
+      serializedVersion: 2
+      Hash: 6cc4f26fcf9101063baf859715cd2ddf
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: AchievementsController
+  - hash:
+      serializedVersion: 2
+      Hash: 3b5263a98bcc71d9a9d1d78a31b34ced
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 524f2bf779151a5ea66d94e713ffd875
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: VIPPanel
+  - hash:
+      serializedVersion: 2
+      Hash: d41ab9b5ea92474f9c0a6937a0607ce1
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: b95178cb81c7f9f56a417b3bb9ed9c4e
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: LeaderboardButton
+  - hash:
+      serializedVersion: 2
+      Hash: 9f75ed0b10b2be856e88a89150d051a7
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: Loading
+  - hash:
+      serializedVersion: 2
+      Hash: 51b80d3734ea86b38e3101db98029e15
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 4b30f227aba63f12ceceabdb0c1cd4ff
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SkinItemMenuPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: a37652570ef02efa5c867e03c8c51f43
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: CustomKeyboard
+  - hash:
+      serializedVersion: 2
+      Hash: 87ed396c345d08719d12e22b464c8e92
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: TouchPadS
+  - hash:
+      serializedVersion: 2
+      Hash: c397a970dfb2df38283814514e52257b
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ChestKeyFragmentBar
+  - hash:
+      serializedVersion: 2
+      Hash: a6be946f631416eb4fde198f0694ddd2
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: MarketplaceMenuPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 7bb32d6e4c7614a97d9723ce7e26588c
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: BasicPlayableBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: d0cdd713f9bf4e6a625d9e7804deca42
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 5b664a1d1f1047ca94b0a5de1bc1ecc9
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: Chest
+  - hash:
+      serializedVersion: 2
+      Hash: 6e7da0a9ed7b31d5388d9b423c5955b2
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: PurchaseEvents
+  - hash:
+      serializedVersion: 2
+      Hash: 21d396433bc155436b5004301182fbfa
+    assemblyName: Unity.2D.PixelPerfect
+    namespaceName: UnityEngine.U2D
+    className: CinemachinePixelPerfect
+  - hash:
+      serializedVersion: 2
+      Hash: 29d5876dae8b92395ef11a3f9c0c30ca
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WalletView
+  - hash:
+      serializedVersion: 2
+      Hash: d42990b8f512a669c11f114c55c50972
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: PanelContainerController
+  - hash:
+      serializedVersion: 2
+      Hash: e88d71ef93aba4e7faf243430f6a10ce
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: MacroScriptableObject
+  - hash:
+      serializedVersion: 2
+      Hash: b9c7335a0c32cb8894a95bd3e14d6ea8
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: RewardAnimations
+  - hash:
+      serializedVersion: 2
+      Hash: 7c8c2b6d2f4d84ae4338921c80f4523a
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: StoryPage
+  - hash:
+      serializedVersion: 2
+      Hash: d7756ed813cd5adc37cbf83dfe9e3b92
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: TransferScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 90c3a57e2fb4aef08b1bf9becb79785d
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GameBoard
+  - hash:
+      serializedVersion: 2
+      Hash: 991def3bb38fe468342c445b01daabcf
+    assemblyName: Unity.2D.Animation.Runtime
+    namespaceName: UnityEngine.U2D.Animation
+    className: DeformationManager
+  - hash:
+      serializedVersion: 2
+      Hash: 4f353524ce6564e40764f1ea080b2d85
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTriggerStay2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 812e4a2942bde0cb47511e611b20bb14
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: LoginScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 46f8bf36aae00630bd8ca617abf100f1
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: TouchPadMessageTarget
+  - hash:
+      serializedVersion: 2
+      Hash: b26c79051e82326fc9963e5a4125f212
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: MahjongThemePU
+  - hash:
+      serializedVersion: 2
+      Hash: 1c4e9304c30e2ebf1a39f611fe07ec9f
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: TokenShopPanel
+  - hash:
+      serializedVersion: 2
+      Hash: dae922ea0cb338ac8b2ac72b59c17e07
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: HideAndShow
+  - hash:
+      serializedVersion: 2
+      Hash: 02a47340661d2ea7c6d30e292cfef403
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnToggleValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 6f43c918119f14bef51b43f8368afcb7
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: FaceBookGUIController
+  - hash:
+      serializedVersion: 2
+      Hash: a3901985eb076c1c9b7562fca82ca3e0
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 1e8748faf959953c510fdff20670131a
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: CoroutineRunner
+  - hash:
+      serializedVersion: 2
+      Hash: 56f71e25e51fd888451a1310d5bdf74d
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: BackButton
+  - hash:
+      serializedVersion: 2
+      Hash: 1452323a81be80d613a9f99f4596afc1
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: MessagePopUp
+  - hash:
+      serializedVersion: 2
+      Hash: d913e513a6c62c1d3d20e473b38e95b1
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: SoundGUIController
+  - hash:
+      serializedVersion: 2
+      Hash: f295412bc00b58b9095a71e9764cc886
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6dc3d79712ca4934f6d50c80f010b1
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: c6369b4cc3be620d6c9300e920bc3d52
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: VariablesAsset
+  - hash:
+      serializedVersion: 2
+      Hash: ef6215465efadcd6d3377b47b1db43db
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: DropdownClusterSelector
+  - hash:
+      serializedVersion: 2
+      Hash: cf32d98954e63b8e30e9334b152e9b8e
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: e3af9a3e4f84eac4a0a2093b94d26180
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: ReGenerateAccountScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 08e2446b65d2da7600c6bbdd36de0e56
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem
+    className: InputSystemObject
+  - hash:
+      serializedVersion: 2
+      Hash: d01470cbabf2c0a36351ee1f67168a59
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SpinViewSwitcher
+  - hash:
+      serializedVersion: 2
+      Hash: e1fa9c7b1b2752dbe5c114171993fe4c
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: AuthorizationView
+  - hash:
+      serializedVersion: 2
+      Hash: 85c247b01656f7953e9c858c40763e1a
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: WinLevelAchievement
+  - hash:
+      serializedVersion: 2
+      Hash: 8dff8e9853297d341afa0c11f9091b59
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: cf5415397e103614e96ff7ce2a528022
+    assemblyName: com.solana.unity_sdk
+    namespaceName: WebGLSupport
+    className: WebGLInput
+  - hash:
+      serializedVersion: 2
+      Hash: 51adb6b1e50a29472d46d842a5cba8ea
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: OpenChestButton
+  - hash:
+      serializedVersion: 2
+      Hash: 00bcfff150a932126a4ea840d0861a6b
+    assemblyName: Unity.2D.SpriteShape.Runtime
+    namespaceName: UnityEngine.U2D
+    className: SpriteShapeDefaultCreator
+  - hash:
+      serializedVersion: 2
+      Hash: 1321993db8249e1e05e1e0492b2bbdc3
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnBecameVisibleMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: d90629714fa6b0145fcaffc87f5c6559
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnInputFieldValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: b6307dfc54cca9ba44f47185c578b0ce
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseDragMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: c4b7e28f271b4fd69b88ba22112a6f5a
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: MatchSpritesAchievement
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc40a01667ca02b3354a4e7a61be082
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 7bcb1da618d42641636409859b6fe7f5
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: OffersByItemIDFilterPanel
+  - hash:
+      serializedVersion: 2
+      Hash: d569f0cb758ddeefc2fd356b214ce30c
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.Friends
+    className: FriendRequestPanel
+  - hash:
+      serializedVersion: 2
+      Hash: bf0842d88681628b29beb00b5e2ab785
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnDeselectMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: ae45b957df1c2b9fc101fc78686560b7
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: AdsControl
+  - hash:
+      serializedVersion: 2
+      Hash: bc75926bfd3609757f7bf33ff766f026
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.EnhancedTouch
+    className: TouchSimulation
+  - hash:
+      serializedVersion: 2
+      Hash: 33eb495d99aa9bea4dbe8b4c4e02c7bb
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem
+    className: InputActionReference
+  - hash:
+      serializedVersion: 2
+      Hash: 4878e735441f4041539853759559c86f
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 966377b37fa6d31676d64c53d3307ac9
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PopUpWalletTransferView
+  - hash:
+      serializedVersion: 2
+      Hash: 40be2ad159aa1a2b72ecc74cb38c7824
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.UI
+    className: MultiplayerEventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 22130d378b859a59f2cb973162c02f89
+    assemblyName: Unity.2D.PixelPerfect
+    namespaceName: UnityEngine.U2D
+    className: PixelPerfectCamera
+  - hash:
+      serializedVersion: 2
+      Hash: da73618b1d342ce8d809819b5daf24b0
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: HeaderGUIController
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb0156899760276696d839551933cea
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ShowRewardedAd
+  - hash:
+      serializedVersion: 2
+      Hash: d3842983507ebff536b93b8e325357f4
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: AchievementsPU
+  - hash:
+      serializedVersion: 2
+      Hash: 5515c386606c93e03552642262e7fd46
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: BaseScriptable
+  - hash:
+      serializedVersion: 2
+      Hash: 715f7928b39881049ce8c46350cb8681
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTransformParentChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 46490dfd735fab2d239367332b46795c
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SpinWindowView
+  - hash:
+      serializedVersion: 2
+      Hash: 890704ae656871458887aa4de9779bad
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: CopyPrivateKey
+  - hash:
+      serializedVersion: 2
+      Hash: 6cf63e9dc888f92a3672d2e4db631c8e
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: PlayerInputManagerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 3074afe1b03a0fb081e176a4ef1b9d09
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputActionAssetEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 07cf34f6d3be4cb683c0ca4e8cefaf4f
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: TouchBlocker
+  - hash:
+      serializedVersion: 2
+      Hash: 9898ac70b8407bb9569a867500522392
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: LeaderboardDescription
+  - hash:
+      serializedVersion: 2
+      Hash: 38439221d549bddbaabf379471019f74
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: LoadMoreButton
+  - hash:
+      serializedVersion: 2
+      Hash: 75176ff89b8b86a70c26b153d908e2a1
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: MarketplaceOfferItem
+  - hash:
+      serializedVersion: 2
+      Hash: 3657eee65d32e3c3e858053562b49918
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PopUpSaveChanges
+  - hash:
+      serializedVersion: 2
+      Hash: a34644a1da81312f364cec01c7b3ba20
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ReferralInviteRewardsView
+  - hash:
+      serializedVersion: 2
+      Hash: 3e20d2b3b2a16ae9d58fa56b494b9313
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.UserProfile
+    className: UserProfileWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 439e1fda27b3780882a7f0bb42bae4ae
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: DeviceBackTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: bfc0f2d384eeb40f451c6d75de88741c
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PanelCryptoWalletTokenBalance
+  - hash:
+      serializedVersion: 2
+      Hash: 28fd3d045acc780719a17f02073eb448
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: ba9f5d8c39f922476b1bd3e43f773ed2
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ImageAspectRatioBehavior
+  - hash:
+      serializedVersion: 2
+      Hash: e49f64f6c7006f2a8a0e7674b5de1fae
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputActionDebuggerWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 14fb963022965ffa004cc4ec810b9fdd
+    assemblyName: Unity.2D.Animation.Runtime
+    namespaceName: UnityEngine.U2D.Animation
+    className: BufferManager
+  - hash:
+      serializedVersion: 2
+      Hash: 90cf308600fb4aeb677786843453ec55
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem
+    className: RemoteInputPlayerConnection
+  - hash:
+      serializedVersion: 2
+      Hash: a59b686741b6a79bf7c47cec9684c9c5
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: IOSRestoreIAPButton
+  - hash:
+      serializedVersion: 2
+      Hash: 99fe57caedcd46fddf43dafa221f8a8d
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ExampleActiveSkins
+  - hash:
+      serializedVersion: 2
+      Hash: daf218fd4a825233d72b7096c6ceb161
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: FooterGUIController
+  - hash:
+      serializedVersion: 2
+      Hash: 4c19f3780480d84f65466201670a77a2
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.UserProfile
+    className: CustomizationElement
+  - hash:
+      serializedVersion: 2
+      Hash: da500949e402afba084e0942fcedc194
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ActiveOfferMenuPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: 4fcf0bb4aff1d14a1dfcdedc4b07bd05
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: e4c7e8341f8e03ea1e9992b62446952d
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ShopSpecialOfferLimitView
+  - hash:
+      serializedVersion: 2
+      Hash: 8703b6ae2b0eefd9dafbc44d8d333fb1
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: e303cf4c6d3ce2f4ec2c9ff2feb410b6
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: InventoryWindowView
+  - hash:
+      serializedVersion: 2
+      Hash: 1ab136900c0edaeeb49424c852595030
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: dd8ec7a642dbaa57390a077c7a9c1fdf
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputStateWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 7053e305cdc1eb560f4c3be49d3b5136
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: e5f9868e485ac5248f96a3be584a5e4a
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 810e3c228b295cc60c4de2cdd94b18cb
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: f2098fcd8ee983a05ec192f63904298f
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnEndDragMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 1b90ed3c1269ae9bb81ccbedd869c196
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: TransactionHistoryItem
+  - hash:
+      serializedVersion: 2
+      Hash: 58023b9c3baef15677f76597b2e9cc6c
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PushNotificationsManager
+  - hash:
+      serializedVersion: 2
+      Hash: defdd1e87a1d5e8c2a2f84eb3351146a
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WeeklyEventWindow
+  - hash:
+      serializedVersion: 2
+      Hash: ed2a1e3d6ffebd049c8f55f73c4299e6
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: AchievementsLine
+  - hash:
+      serializedVersion: 2
+      Hash: 1410ddb9ff663f6dd7722ffaa74b8ffa
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: RefreshLeaderboardTimer
+  - hash:
+      serializedVersion: 2
+      Hash: c4b85a67513b4f0cf7b5fb2d5ded04b0
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnCollisionExitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: fd7983aadddd0b1b9f4ce82ed537bde5
+    assemblyName: Unity.2D.SpriteShape.Runtime
+    namespaceName: UnityEngine.U2D
+    className: SpriteShape
+  - hash:
+      serializedVersion: 2
+      Hash: 6683909a8146d6fd1a8936cb556ee5bc
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SceneSwitcher
+  - hash:
+      serializedVersion: 2
+      Hash: 38de9853f1fc4542aaa72e83cf5ec011
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ShopSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 9b5de1c78f8a260e7e36ca14bd1db7d9
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PopUpCopied
+  - hash:
+      serializedVersion: 2
+      Hash: a932e98f3de6dc952a562ef4f820f498
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.UserProfile
+    className: FriendButton
+  - hash:
+      serializedVersion: 2
+      Hash: 0a88370054882cfbb9a7a00050450263
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: PossibleMathesGUIController
+  - hash:
+      serializedVersion: 2
+      Hash: 33177439bb3b792bbedc237b72360f3d
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: VolumeController
+  - hash:
+      serializedVersion: 2
+      Hash: ef8dd7a02cae1468c85e2cc35bf2403e
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: StartSound
+  - hash:
+      serializedVersion: 2
+      Hash: e4bdb6f386bf2924e10864aa933379b3
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: MarketplacePlayerActiveOffer
+  - hash:
+      serializedVersion: 2
+      Hash: 1131d16e2402427640760042b5486b11
+    assemblyName: Unity.2D.IK.Runtime
+    namespaceName: UnityEngine.U2D.IK
+    className: CullingManager
+  - hash:
+      serializedVersion: 2
+      Hash: 43ebd945b04bced376c791411cf5a289
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnSelectMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: aa2a44d82330fbbed02d6c4fe3cd3fec
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WalletImportManager
+  - hash:
+      serializedVersion: 2
+      Hash: 00151809d832ba636fb3062c1ff8dfe5
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: MarketplaceWindow
+  - hash:
+      serializedVersion: 2
+      Hash: ce5eaf45ab6436b7db270f79da3bce8b
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ShowSelfClosingMessage
+  - hash:
+      serializedVersion: 2
+      Hash: b07e6307b67d8f0ed139a9bb412ec110
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ShowRandomGuiPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: fdbaf92801d479eeb30f7a95757004a3
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PopUpConfirmation
+  - hash:
+      serializedVersion: 2
+      Hash: 13f262cc0741566a7ab72682984bc3e1
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: fa31a33bd33ed515325c3de9e3f123ef
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SpecialOffersScrollView
+  - hash:
+      serializedVersion: 2
+      Hash: d257f0dbdeab7665aefb732a069874bb
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ChestAnimation
+  - hash:
+      serializedVersion: 2
+      Hash: 0f5a086d4d028363983ba6ca30a01397
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseOverMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: cd2bedd93affd5dca33795505de2a82a
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: SimpleScreenManager
+  - hash:
+      serializedVersion: 2
+      Hash: e23d2210701e34e6850023cabe554c1f
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnInputFieldEndEditMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 74a5a1d538030e987b24551e55c30445
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: TextAlphaAnimation
+  - hash:
+      serializedVersion: 2
+      Hash: 1ff80f6e1dabaa923f7d2c21e3358f9b
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SpecialOfferTimer
+  - hash:
+      serializedVersion: 2
+      Hash: e0b12f053fbd9f84ce1f1d65bd8c10e4
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: SolidLineRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 129c9352cb9e57ef5cc083a20fe6da24
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: OutTextMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 59e3f23930f40a8daa4307ce258176a8
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WKShopPanel
+  - hash:
+      serializedVersion: 2
+      Hash: a90f6a00b23520788be7d89ee3b0773d
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: e3eb1dd1ef5bbb92f3003ced1c9c255f
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: RewardChestPU
+  - hash:
+      serializedVersion: 2
+      Hash: a30cffb153e41a843b51efb994134020
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SpinButtonsSwitcher
+  - hash:
+      serializedVersion: 2
+      Hash: 99b8e1fa5ef596efed4b4e6297359a4b
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PanelPlayerOffers
+  - hash:
+      serializedVersion: 2
+      Hash: 68b2a4e606da1f31eeab91dc26fd8151
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: MarketplaceSelectSkinButton
+  - hash:
+      serializedVersion: 2
+      Hash: f1dae16e7af2c2363e0d3e8d74b4b4a1
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PushNotificationsData
+  - hash:
+      serializedVersion: 2
+      Hash: 08608b9ef3cbd9e9ae48e690f9effc75
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ShopItemForVirtualCurrency
+  - hash:
+      serializedVersion: 2
+      Hash: 80aeb876b0e95f6256bbfcbf33e26e84
+    assemblyName: Unity.2D.IK.Runtime
+    namespaceName: UnityEngine.U2D.IK
+    className: LimbSolver2D
+  - hash:
+      serializedVersion: 2
+      Hash: 8f96767c53e04ea2be1fc28923ae60c3
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: DotsNavigation
+  - hash:
+      serializedVersion: 2
+      Hash: 9e39b311d0512ff40636d61ca6361960
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: BoardHelper
+  - hash:
+      serializedVersion: 2
+      Hash: 3fb40dcb94d969b8f926b7c9a790a51c
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: TouchPad
+  - hash:
+      serializedVersion: 2
+      Hash: e6100ab62cf5308f6fb16f9437b7ed00
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: DeviceBackTriggerSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 648ef2883d0453bc1c34b0e2531912e8
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: SceneButton
+  - hash:
+      serializedVersion: 2
+      Hash: 215d2dc6ec6ea06728398ea39a103cb3
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.OnScreen
+    className: OnScreenStick
+  - hash:
+      serializedVersion: 2
+      Hash: d501a3b99c9eb1c6dc3fc65e0efc9249
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: OutText
+  - hash:
+      serializedVersion: 2
+      Hash: 432f7fae438e02649fdb00c95b081708
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ShopItemForRealMoney
+  - hash:
+      serializedVersion: 2
+      Hash: ed3fd53ee7e8101fd9ec071304246077
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: MatchGridRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 1b2be74a4492f3edbfdc5f573dc09671
+    assemblyName: NativeShare.Runtime
+    namespaceName: NativeShareNamespace
+    className: NSShareResultCallbackiOS
+  - hash:
+      serializedVersion: 2
+      Hash: 4ae857df30b443416aec3ca020584ef4
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ShopSpecialOfferTimeLimitInfo
+  - hash:
+      serializedVersion: 2
+      Hash: cd8fc755ace0c0121b1fd43ffd775af0
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: RewardAnimationManager
+  - hash:
+      serializedVersion: 2
+      Hash: 48ed7ba03c0631a611a0012e5f549eea
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.Friends
+    className: FriendWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 33cfaad19533582a57493265a5d39ed4
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: TabItem
+  - hash:
+      serializedVersion: 2
+      Hash: e8d390bd9ecacc453a7500b90d0c0292
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: a89b0448af4e1cd103a77f9fec0a961f
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnSubmitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 51fec7a2d8feb03d074a05323e9e1552
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: DontDestroyObj
+  - hash:
+      serializedVersion: 2
+      Hash: f9d85b1ce1aad36244ea397fb5d57533
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.UserProfile
+    className: AvatarItemMenuPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: 6787b489ed79673d73a39e945cf3a99a
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: TileTouchBehavior
+  - hash:
+      serializedVersion: 2
+      Hash: 0ec0745bfa9f97b48e0c5b2f8ab63fae
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: TEST
+  - hash:
+      serializedVersion: 2
+      Hash: 76005a177ee3ffe679bb773c99bd642d
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SpecialOfferShopPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 00fa6d41569f2f437d3e3d993da5c308
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: GDPRSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 5a4aa2850fe11587f47e34c270c7fd22
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 0046ca048303bbe06b07aa9d2429594d
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: SimpleScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 86344100c716167fb86137c127ca9eee
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputActionImporterEditor
+  - hash:
+      serializedVersion: 2
+      Hash: e6f8333cc8a800e2866870a5ef7efc35
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnControllerColliderHitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: bdc901709b9e820131962e642ccbd086
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: StartMusic
+  - hash:
+      serializedVersion: 2
+      Hash: 305b90908ebc4661467ecf18fb7b77a2
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: CheckPayload
+  - hash:
+      serializedVersion: 2
+      Hash: 27604533d1c47788d03430c45661913c
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.UserProfile
+    className: AvatarItemMenu
+  - hash:
+      serializedVersion: 2
+      Hash: 1ce63d97d1ca25cba2d91d5f32fd5f79
+    assemblyName: Unity.VisualScripting.State
+    namespaceName: Unity.VisualScripting
+    className: StateGraphAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 3da6784edb7a7c969ded7d1777c6853f
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GuiFader_v2
+  - hash:
+      serializedVersion: 2
+      Hash: 8ed5daadd237bb82e132790f75ffccaf
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: PlayerInputEditor
+  - hash:
+      serializedVersion: 2
+      Hash: b6b5d73f30e64c2bb8b97a73277687c9
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ApplicationVersionBar
+  - hash:
+      serializedVersion: 2
+      Hash: fbab1267b1e82815423fa935f72d0420
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: FBholder
+  - hash:
+      serializedVersion: 2
+      Hash: 568292fb7ea6c4f7a667e5ff76bc7e85
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseUpMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 9768d6f27aa2acab4d8a1676092fbbc2
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ShowInterstitialAd
+  - hash:
+      serializedVersion: 2
+      Hash: 55060a7bf226ac385ce19ebd450f199f
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UIElements
+    className: PanelRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 1715add42a9163478564040a390270ba
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: GroupedOfferItem
+  - hash:
+      serializedVersion: 2
+      Hash: d955b6bbbd2019b631c25e187189698d
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ShuffleHelper
+  - hash:
+      serializedVersion: 2
+      Hash: 7e12302f66e3c8ed5bcfea4ce65fccea
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 906b726fca84c1932d87779efc1fa200
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: PSlider
+  - hash:
+      serializedVersion: 2
+      Hash: 5a36ff187fcf32352e0326119a2f25c5
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: WalletScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 8fc637f53283ae99d6b6f79d329deb9d
+    assemblyName: com.solana.unity_sdk
+    namespaceName: Web3AuthSDK.Editor
+    className: Web3AuthDebug
+  - hash:
+      serializedVersion: 2
+      Hash: 6d94138b60a9299798dda96c1ee6725f
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnBeginDragMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 6c65604ccc02db6831765a31a6349958
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: MarketplaceCommissionPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 6c3846f876af469779892bb62195da1a
+    assemblyName: Unity.2D.SpriteShape.Runtime
+    namespaceName: UnityEngine.U2D
+    className: SpriteShapeController
+  - hash:
+      serializedVersion: 2
+      Hash: e7237a818aa2c7425cb4ced90483ca10
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: Analytics
+  - hash:
+      serializedVersion: 2
+      Hash: 1b02f0e7f41a9eb4d7e6b0eaa7606dbe
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.UserProfile
+    className: CameraMovement
+  - hash:
+      serializedVersion: 2
+      Hash: 1553f209ae0b2d5d3a35685fca55f9c3
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: f7c0a1935e20af42b894598028144320
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: BannerControl
+  - hash:
+      serializedVersion: 2
+      Hash: 8bf800a764665b085fe469e8aea7f167
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseEnterMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: f854af586011dd194574f89546642e29
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseExitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: b5283174c6ad4391cc12faf14cead7e0
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WebFunctionHandler
+  - hash:
+      serializedVersion: 2
+      Hash: cf41c00b17c13eb5c6b3ea8d2f3caec3
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: MetaMaskWalletService
+  - hash:
+      serializedVersion: 2
+      Hash: a344a9d148a4c66cf2c45e4bbb6cbed6
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ScriptableHolder
+  - hash:
+      serializedVersion: 2
+      Hash: 62e953b1a7d38b568f79af65bc8133f8
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PopUpApplicationUpdate
+  - hash:
+      serializedVersion: 2
+      Hash: f34cc490b6857195b9cdb30787d4b96f
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UIElements
+    className: WorldDocumentRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: ce4ff150b3c2dcb61d93998c01d4604f
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: StoryTab
+  - hash:
+      serializedVersion: 2
+      Hash: 4744df5ed5e95e71293a3522e1da6dad
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WeeklyEventItem
+  - hash:
+      serializedVersion: 2
+      Hash: 513c94e5ae9927ea5c459cfbc299fa11
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: UndoMatch
+  - hash:
+      serializedVersion: 2
+      Hash: c78ed13f6b5a632d70d4f73f56ad81f2
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: VariablesSaver
+  - hash:
+      serializedVersion: 2
+      Hash: 1a680d9a08de79b0d2c779e78c9843b4
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 0054fbf0021ca5612162a3774c6c6836
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputDeviceDebuggerWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 9aee841b005cc3c00030a4eb4fd6775a
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GridObject
+  - hash:
+      serializedVersion: 2
+      Hash: 9cf418c71305ad94f6c5340e8a662da3
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: FbEvents
+  - hash:
+      serializedVersion: 2
+      Hash: d1e251339714fe85c544f2ebff0b9290
+    assemblyName: UniTask
+    namespaceName: Cysharp.Threading.Tasks.Triggers
+    className: AsyncAwakeTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 9449bdb02515af55df98da462af46cce
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: Toast
+  - hash:
+      serializedVersion: 2
+      Hash: cc0d6484960316ebca5b1c272bb29ee6
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: DataComponent
+  - hash:
+      serializedVersion: 2
+      Hash: d75df0b83c74ab3d9088964ef8188507
+    assemblyName: Unity.2D.Animation.Runtime
+    namespaceName: UnityEngine.U2D.Animation
+    className: SpriteSkin
+  - hash:
+      serializedVersion: 2
+      Hash: e13dbd5de4c48ace098aea6daffe9b2d
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GameLevelHelper
+  - hash:
+      serializedVersion: 2
+      Hash: 8b569c03d149166119268170e16d000b
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ModeButton
+  - hash:
+      serializedVersion: 2
+      Hash: e3da8c172fb5868518c341b90fa183b7
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SkinInspectionRoomRotationHandler
+  - hash:
+      serializedVersion: 2
+      Hash: a6f61a72e2de5f887e7d7b51b55197d9
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ChestWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 6c05f597a5ebede4a1a59b9d9f037d57
+    assemblyName: com.solana.unity_sdk
+    namespaceName: 
+    className: MainThreadDispatcher
+  - hash:
+      serializedVersion: 2
+      Hash: 14f8c3da54a840e4c398ed3fa7b6057f
+    assemblyName: Unity.2D.SpriteShape.Runtime
+    namespaceName: 
+    className: SpriteShapeGeometryCache
+  - hash:
+      serializedVersion: 2
+      Hash: 67fa7e6e452bc310f4d44a66683d9102
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: LeaderboardRewardItem
+  - hash:
+      serializedVersion: 2
+      Hash: 354aa48a587172af8cfcd8d58219883f
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: CardMoveAnimation
+  - hash:
+      serializedVersion: 2
+      Hash: d84cd1ca32e3516e5c80fb06562710b3
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ConnectionErrorPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: 96e7bcfd2d072992dab64ac44058b930
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnCancelMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: f8d92a836422abe5bd988de9b03d2598
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ShopFreeItem
+  - hash:
+      serializedVersion: 2
+      Hash: 00ac90c8f61d8c8038cefdad9aa113ab
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: HintHolder
+  - hash:
+      serializedVersion: 2
+      Hash: 467f4a5e5f0a57c9f502e4d66c72baf5
+    assemblyName: Unity.2D.Animation.Runtime
+    namespaceName: UnityEngine.U2D.Animation
+    className: SpriteSkinContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 2c6466ef39d090899735a3f3ef406166
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PremiumTicketShopPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 98084c33aa0cbe80cde51e7ff3ef9637
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PlatformPoolTransferScreen
+  - hash:
+      serializedVersion: 2
+      Hash: a023a1c6d7b30200f7fa550ed1a97e08
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: BackgroundScroll
+  - hash:
+      serializedVersion: 2
+      Hash: 5f27242e1ad2aadb1faa604dd779a464
+    assemblyName: Unity.2D.Animation.Runtime
+    namespaceName: UnityEngine.U2D.Animation
+    className: SpriteLibrary
+  - hash:
+      serializedVersion: 2
+      Hash: eb4693d5f6b600d18604b031075c7651
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: TouchManager
+  - hash:
+      serializedVersion: 2
+      Hash: 52845fcdb551decfdc30f708f9e4b778
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GUIMusicSoundButtonBehavior
+  - hash:
+      serializedVersion: 2
+      Hash: 3530467f658c718c69d266767ad9405e
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: AnimationController
+  - hash:
+      serializedVersion: 2
+      Hash: ff76cf6cf52b4db7b95af6ffadca9288
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: b20301ffc596107f330cedda02d2a7ce
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ButtonActivateSideBar
+  - hash:
+      serializedVersion: 2
+      Hash: 0f19765290d81f9e93eff7828a091d40
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem
+    className: PlayerInput
+  - hash:
+      serializedVersion: 2
+      Hash: df051cda95081ff6a040c66f7dd5d488
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PanelPlayerHistory
+  - hash:
+      serializedVersion: 2
+      Hash: d7c8092511063e0dae8106bfc8ed63dd
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnScrollMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 566f910fea7b2304089f8f80164de207
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PasswordVisibility
+  - hash:
+      serializedVersion: 2
+      Hash: a50103649527b6506b88ac44534a19bb
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SkinInventoryItemFull
+  - hash:
+      serializedVersion: 2
+      Hash: 684204d98613ca555f95860d9d5807e7
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: GameController
+  - hash:
+      serializedVersion: 2
+      Hash: 0b63f6d3335e11939ce8790b904c8691
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: ec6cf673540b2d4e42c612611eeafe4d
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTriggerStayMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 0f52a2b34c0fd2d1d92f8fad34637b53
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GameConstructor
+  - hash:
+      serializedVersion: 2
+      Hash: 02389f730d136aa52a77fb7eddcf5c77
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: VictoryWindowController
+  - hash:
+      serializedVersion: 2
+      Hash: 7237eb53252549505aa0826666505fa6
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: MarketplacePlayerHistoryItem
+  - hash:
+      serializedVersion: 2
+      Hash: ff5172bc81dc2da4c7de2a8bf56dc4b8
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputActionsEditorWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 167ae6b16fdca9641954ae269c5c3076
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ReferralSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 199296d3e0513ef01e57ed7190cebf46
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: RewardPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: a5f52e289070cca28d53aa2d26bf266a
+    assemblyName: Unity.2D.Animation.Runtime
+    namespaceName: UnityEngine.U2D.Animation
+    className: Bone
+  - hash:
+      serializedVersion: 2
+      Hash: e37e3dedc83ca88f787bf0fec5eb7b98
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: AIService
+  - hash:
+      serializedVersion: 2
+      Hash: 48de9a994a649f30f56b7ec8f53b9600
+    assemblyName: com.solana.unity_sdk
+    namespaceName: Solana.Unity.SDK
+    className: WalletAdapterButton
+  - hash:
+      serializedVersion: 2
+      Hash: 6dcf061c899a4ae7a71e4e7728e0749b
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: AchievementsGUIController
+  - hash:
+      serializedVersion: 2
+      Hash: af770ad771658627851c64eafbf797f0
+    assemblyName: Unity.2D.Tilemap.Extras
+    namespaceName: UnityEngine.Tilemaps
+    className: AnimatedTile
+  - hash:
+      serializedVersion: 2
+      Hash: e2f1dbcb4bfa8a9faa0cd716528f504a
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: OpenURLButton
+  - hash:
+      serializedVersion: 2
+      Hash: f882625d0b727b0c42c491b915f20f6c
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PopUpGDPR
+  - hash:
+      serializedVersion: 2
+      Hash: 6d77d9760aec730af58401b844b46c72
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ButtonClickToCopy
+  - hash:
+      serializedVersion: 2
+      Hash: cbdafab1fc9f78495bfab1c4fa131e67
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: AmountInputField
+  - hash:
+      serializedVersion: 2
+      Hash: e72d246809396ab66c2e5c11fc7ba53f
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PopUpWalletTransfer
+  - hash:
+      serializedVersion: 2
+      Hash: 24df1f770f4135a11fbc7ea2ebea356f
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.UserProfile
+    className: AvatarProfileSettings
+  - hash:
+      serializedVersion: 2
+      Hash: c8725340917023bb13b49258ab533662
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: StandardTicketShopPanel
+  - hash:
+      serializedVersion: 2
+      Hash: b4c911f33bd0291b7593b9c670eec279
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: GroupedOfferMenu
+  - hash:
+      serializedVersion: 2
+      Hash: 5d50d7233e69edbc37c264838086bc7c
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: WalletHolder
+  - hash:
+      serializedVersion: 2
+      Hash: 0a4ef3c4e73b2f3eef913e2325924084
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem
+    className: InputSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 0ec4cb4ab56d047cfd8b8ecc4de31bf5
+    assemblyName: com.solana.unity_sdk
+    namespaceName: 
+    className: HideIfExampleScript
+  - hash:
+      serializedVersion: 2
+      Hash: d0392b7f3f52d5af537ade186b4f51f1
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 05bc24b7db19e1c680518f4de35e8b1a
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ProgressSlider
+  - hash:
+      serializedVersion: 2
+      Hash: 3e59ffd719f8915052cf4227c71237e8
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ScoreGUIController
+  - hash:
+      serializedVersion: 2
+      Hash: f5f3105249f5f16c66892012665934b1
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: PurchaseProduct
+  - hash:
+      serializedVersion: 2
+      Hash: 560ccef2a3403475615807c7ba7f994f
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PopUpTransferConfirmation
+  - hash:
+      serializedVersion: 2
+      Hash: e9db29e31ba60222fa1690a9445f34f5
+    assemblyName: Unity.2D.Tilemap.Extras
+    namespaceName: UnityEngine.Tilemaps
+    className: RuleOverrideTile
+  - hash:
+      serializedVersion: 2
+      Hash: 17815fe8db4ee7fa601008b67c608054
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: CoinShopPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 9dec4c1c5cda04aec40b70e4cab8ed85
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: LeaderboardWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 5bafca9239fa8e6e9c33939e9a91a063
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WalletTransferDirection
+  - hash:
+      serializedVersion: 2
+      Hash: 8bbce9932f67ad8e7f4eefec87800f94
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 5ba87e634730a46f55ee426e610f967f
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: PlaySound
+  - hash:
+      serializedVersion: 2
+      Hash: 35ac755b04a31774b67f69b28df393e2
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: SwapScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 599fe4fe1c55ee9481f27538be607712
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SkinItemMenu
+  - hash:
+      serializedVersion: 2
+      Hash: fd6dd52a6ec288e8f33aeb443258f9ea
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: SceneLoader
+  - hash:
+      serializedVersion: 2
+      Hash: ef1dee12baf38f9b41578022e76d4567
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: PlayerDataHolder
+  - hash:
+      serializedVersion: 2
+      Hash: ad49e20f31ed572e586aa8bbaafb591b
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnDropMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 6144ff00b5c90763c1559eb8ae7ca663
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GUIFlyer
+  - hash:
+      serializedVersion: 2
+      Hash: 04b6685b6f724c0d6024e6b6f96c8202
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 6d394de691f6d0187f61c08889353d0e
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnButtonClickMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: d589238ec13c7078ca90db98b95df77c
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: TokenTickerText
+  - hash:
+      serializedVersion: 2
+      Hash: b98001682cba83786775c9e415b89a61
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnDropdownValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: b838cbada0b03f1cfbaebc8e124f4f39
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.OnScreen
+    className: OnScreenButton
+  - hash:
+      serializedVersion: 2
+      Hash: bb8d968ef4474e71aaad4a4dce279f90
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseDownMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: e2a83521e104993c7b02719a339a5be1
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: AlarmObject
+  - hash:
+      serializedVersion: 2
+      Hash: aefcc7c45e2382835ccf437b6d6652f5
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: InviteFriendsPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: 7e9cad7f71f9cc52f699bbd2d2a75734
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnPointerClickMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 3bf4bd637963967800a8d515a98312ff
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: NftMint
+  - hash:
+      serializedVersion: 2
+      Hash: 5874b789cd9832847c61ebfa803213af
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UIElements
+    className: PanelEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 2e8fa25b3f2ef15552011963541efdfe
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: RewardItem
+  - hash:
+      serializedVersion: 2
+      Hash: e350893e21c23174332b8772d8bfa8db
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PanelMarketplaceCreateOffer
+  - hash:
+      serializedVersion: 2
+      Hash: 1e6aa1f905f62bcd0558226c29920412
+    assemblyName: Unity.2D.SpriteShape.Runtime
+    namespaceName: UnityEngine.U2D
+    className: SpriteShapeObjectPlacement
+  - hash:
+      serializedVersion: 2
+      Hash: 74a2716513bae2fa47273dad4a5d8cd2
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SpinTicketBar
+  - hash:
+      serializedVersion: 2
+      Hash: d2ecd94550edf1b56aff07b1f4e41c57
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTriggerEnter2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 5ebc58ec194dd44630b25fcc270ad4af
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: df32c7261fcccf6f3386eec1f91ef52a
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: PopUpsController
+  - hash:
+      serializedVersion: 2
+      Hash: 3a31810f23bbb24cfe489b4e8c315816
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: CoinsHolder
+  - hash:
+      serializedVersion: 2
+      Hash: 96fcf01fa02eb7394e57d72c513e88e7
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PanelOffersByItemID
+  - hash:
+      serializedVersion: 2
+      Hash: 17a71904793c41964b29cf2c93c6e006
+    assemblyName: Unity.2D.IK.Runtime
+    namespaceName: UnityEngine.U2D.IK
+    className: IKManager2D
+  - hash:
+      serializedVersion: 2
+      Hash: ad29fc4f1037c607f68537dbeb3bee70
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: MetaMaskConnectButton
+  - hash:
+      serializedVersion: 2
+      Hash: 1bcc0de9cde052381702e9efbec2fb1c
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: MahjongTile
+  - hash:
+      serializedVersion: 2
+      Hash: 5d20807c6a08b9af28c959410ab6c6a2
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: InventoryWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 1a35c7af1556d0296d75649b858a9477
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: RewardChestLine
+  - hash:
+      serializedVersion: 2
+      Hash: b5007673bbbdb9d12597a1d8201370f5
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: e3795fc09dab7aa1c7711df686ce8a16
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ProgressBarSlider
+  - hash:
+      serializedVersion: 2
+      Hash: ce607905c611ff4d529782920587fe31
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: IDosGamesSDKSettings
+  - hash:
+      serializedVersion: 2
+      Hash: bfd4af30d9804c73a547e494b337b534
+    assemblyName: Unity.2D.Tilemap.Extras
+    namespaceName: UnityEngine
+    className: RuleTile
+  - hash:
+      serializedVersion: 2
+      Hash: f4f97bfce0e2846b3cc65639cd381764
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: CanvasSetCam
+  - hash:
+      serializedVersion: 2
+      Hash: d5cd7f207e91ca8336c65a577a6fb2a0
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 47e26fb09643acc773ae1fd9cb31ba88
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PopUpTransactionHistory
+  - hash:
+      serializedVersion: 2
+      Hash: db1c33df67cbf87926aa39b581492e5e
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: Message
+  - hash:
+      serializedVersion: 2
+      Hash: 4819591f88fac62bfd12b0c345b06315
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.Friends
+    className: UserFriendItem
+  - hash:
+      serializedVersion: 2
+      Hash: f45600bcc886206dd55a3208474aad61
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnScrollbarValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 00bbd9db8634496d079d17711b2ff7c4
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: bac6724d1cd459595e9cd5884f78201d
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: PrefabInstantiator
+  - hash:
+      serializedVersion: 2
+      Hash: b9683f35895c6b8a1c5c2f4171cf87ba
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: HideOnVIP
+  - hash:
+      serializedVersion: 2
+      Hash: fce9b835d1e8b08e7ecea8da19f21986
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: CoroutineRunner
+  - hash:
+      serializedVersion: 2
+      Hash: a51ad022bb64c176f01d6fc1ac02890e
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ButtonRefreshLeaderboard
+  - hash:
+      serializedVersion: 2
+      Hash: 6217b1287eca7eed313cf0b864249a30
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnCollisionExit2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: fb79e95da8891fc7ac6c36ca6967af23
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 552dca338f20933ce362ebbe559a6aa6
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnPointerExitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: edb879c60ae5273394af7f8946bc44b3
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: ReceiveScreen
+  - hash:
+      serializedVersion: 2
+      Hash: a0836e4a1eab0c5dcb388825841131a9
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SpinWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 191cd500c627cd6682ef6f70b8e47f2c
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnCollisionEnter2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 21036abac11e4cba05686626f7beae4b
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: GetPrivateKey
+  - hash:
+      serializedVersion: 2
+      Hash: 7062553f9cf49c3ed7470a4a30378bed
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: LeaderboardRewardSystem
+  - hash:
+      serializedVersion: 2
+      Hash: d4c838546f46ce6e2a95015c98642a0d
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ObjectInspection
+  - hash:
+      serializedVersion: 2
+      Hash: ef38c1407dba8c1f5d69f5db61a694fe
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: AnimatorMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 03a36d4c4f0ca2628ab613611dea73f1
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.UserProfile
+    className: UserProfileRoom
+  - hash:
+      serializedVersion: 2
+      Hash: 18b3eb44b7640112f768661e2e9d9ea1
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: SettingsWindowController
+  - hash:
+      serializedVersion: 2
+      Hash: 29ddbdcfbafa03301f2226c6b51590a5
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WalletCreationManager
+  - hash:
+      serializedVersion: 2
+      Hash: 23121692df7927ab89e948596fe0a7ce
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: DailyOfferShopPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 82d48f786a7e62246e4e64756dbc0f76
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: AuthorizationPopUpView
+  - hash:
+      serializedVersion: 2
+      Hash: b12640dfdb5966813e9dd838893e6c4a
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTriggerEnterMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 8d5318ed8488b1fe17c08044ce1b8309
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: e18dfd2b913b09fbbb2405165a2e6a44
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: ada873da50974d1e7ce247ffb296b0f3
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnCollisionEnterMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 3eb2cdca1558cb0270abb645e53257ac
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: TransactionCheckUI
+  - hash:
+      serializedVersion: 2
+      Hash: 08b95fa15361aa65938d0750c9864d5f
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.Friends
+    className: FriendSettingsPanel
+  - hash:
+      serializedVersion: 2
+      Hash: d85292b1d7ddb10e5a2df5d221dcba86
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem
+    className: InputActionAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 185e7bacfbbc5defefa609c70f7ff4ce
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: facc4c629cd5ad3b07098eba62993606
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ApplicationQuit
+  - hash:
+      serializedVersion: 2
+      Hash: d2b6859ba90d4b7ba8a85d9514e62f32
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: LoadingPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 97ec2b2d4137bd3929111db5855decd8
+    assemblyName: NativeShare.Runtime
+    namespaceName: NativeShareNamespace
+    className: NSCallbackHelper
+  - hash:
+      serializedVersion: 2
+      Hash: e402a382f213255c22bda9254dd831b3
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: SceneVariables
+  - hash:
+      serializedVersion: 2
+      Hash: fd063b7b91a1be020ace63ea75cc341b
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: MahjongProfileWindowController
+  - hash:
+      serializedVersion: 2
+      Hash: 4b1de92d0c3d75fed76a24b78dba4ad8
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: AlarmSideBar
+  - hash:
+      serializedVersion: 2
+      Hash: 22dd1b861dc9afd40d1fd990edf4fb9f
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ButtonContinue
+  - hash:
+      serializedVersion: 2
+      Hash: 88094c3547ae5aab2e0c7806250b33c7
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: Achievement
+  - hash:
+      serializedVersion: 2
+      Hash: 540882762544409cc4530e60db00e951
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: bec45dea274dd43c55714abd65f16de9
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SkinInventoryPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: 17142b03663387290480c82303274c02
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnPointerEnterMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 218a731496297f0b000ed50cc5b3043e
+    assemblyName: com.solana.unity_sdk
+    namespaceName: WebGLSupport
+    className: WebGLInputMobile
+  - hash:
+      serializedVersion: 2
+      Hash: db49c92d44d600db3c72ea20c2b8b321
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: SignScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 6ffeaac32e5beb84f23ebd158d90c885
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ReferralInviteRewardItem
+  - hash:
+      serializedVersion: 2
+      Hash: 0752e7eff28be289e972a9bdf8504716
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ChestRewardRoom
+  - hash:
+      serializedVersion: 2
+      Hash: 7e0b806f63dbcc0a0c0855af27591ec1
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: TokenItem
+  - hash:
+      serializedVersion: 2
+      Hash: 00eef92bf387da2c9009267123d9d674
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTriggerExit2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 4373eba1bee0c66d404df03f23f72400
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: DelayDestroy
+  - hash:
+      serializedVersion: 2
+      Hash: 578360a49d28dc6670139a0eb1e3a761
+    assemblyName: Assembly-CSharp
+    namespaceName: Solana.Unity.SDK.Example
+    className: KnownTokens
+  - hash:
+      serializedVersion: 2
+      Hash: 0af4a2f1e2f873acae2d7af2ab581cad
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: CoinsHelper
+  - hash:
+      serializedVersion: 2
+      Hash: 781ed0b95402e7a3300bc4741f417955
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ReferralSystemAppmetrica
+  - hash:
+      serializedVersion: 2
+      Hash: d92fdbfa844b695031783ab94b9240f1
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: UseShuffleAchievement
+  - hash:
+      serializedVersion: 2
+      Hash: 7b7c7d50ccc5dd492c4a21901e070bbf
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: StartMapGuiController
+  - hash:
+      serializedVersion: 2
+      Hash: ca7965796a6fc0e5baad4cb19f5b5ded
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnJointBreak2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 9d0df277da8238afd61269340acabd24
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: IOSAppTrackingTransparencySystem
+  - hash:
+      serializedVersion: 2
+      Hash: 5ac1e0b5ee21aee72aadb363eba82ae3
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PlatformHandlerObjectActivation
+  - hash:
+      serializedVersion: 2
+      Hash: e9f78e9b38682fdd7bfe6ea6c13a11fc
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ConnectWalletButton
+  - hash:
+      serializedVersion: 2
+      Hash: 7c5193db4cc1719ed7c797a4f3754bd8
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GameConstructSet
+  - hash:
+      serializedVersion: 2
+      Hash: 13e19986dc5efc1ca5c99f08bf7013cd
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ParticlesDestroy
+  - hash:
+      serializedVersion: 2
+      Hash: c5cf32fa4466b98b306041420dd36c78
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: VIPButton
+  - hash:
+      serializedVersion: 2
+      Hash: 3ca7f2be93d5156a91693dfd4bd38e3f
+    assemblyName: Unity.2D.IK.Runtime
+    namespaceName: UnityEngine.U2D.IK
+    className: FabrikSolver2D
+  - hash:
+      serializedVersion: 2
+      Hash: ce6fce3dcdb22d09a04c35f728972d89
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ResetGame
+  - hash:
+      serializedVersion: 2
+      Hash: f778e23b6ff26b8de4721be0eb1fa240
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnCollisionStayMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 296740f4efe9f2e767d1ac7c2f068f41
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ToggleButton
+  - hash:
+      serializedVersion: 2
+      Hash: ba049bab0643709b5c63555fbc0d3d88
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: AutoLogin
+  - hash:
+      serializedVersion: 2
+      Hash: b747f5d40674055dd70e18552f1b0447
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: 191a273d20819eae1b897b13da20d3df
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WeeklyEventWindowView
+  - hash:
+      serializedVersion: 2
+      Hash: 99e76c0a723f468e8beb26aa500d03fb
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: SimpleSlider
+  - hash:
+      serializedVersion: 2
+      Hash: bd4338bad4537b3f4620559c9a86e50c
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ActiveOfferMenu
+  - hash:
+      serializedVersion: 2
+      Hash: e6b258489c88376c5869946b2735e7e5
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 5f4c466b8599476638cdeb3ac4cc7cd6
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames.UserProfile
+    className: UserAvatar
+  - hash:
+      serializedVersion: 2
+      Hash: 6a0b5b415c00f783202fd1ae2d556cb2
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 89fa8cefac0bfa89199da243f60a1cfc
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: SessionLocalTimer
+  - hash:
+      serializedVersion: 2
+      Hash: 2852a4d0b317d6bc5c0c5a4a6287d996
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PulseObject
+  - hash:
+      serializedVersion: 2
+      Hash: 85bf5703981f0905a5cc284405279091
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: VirtualCurrencyBar
+  - hash:
+      serializedVersion: 2
+      Hash: c46255c37e1a2b7919b985b90b9998d7
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ShopDailyOfferView
+  - hash:
+      serializedVersion: 2
+      Hash: 32170fc99527cf6e0fd89bf023d3d7f7
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: LeaderboardTimer
+  - hash:
+      serializedVersion: 2
+      Hash: cb03c71dcb79aa58cdfb45fabbe07bb5
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ProfileAvatarButton
+  - hash:
+      serializedVersion: 2
+      Hash: db6133687572f9dc24f1fd4238ef9b83
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 3456b88afa045701f4e4e0160b9d3e75
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GameObjectsSet
+  - hash:
+      serializedVersion: 2
+      Hash: 10c17b309bdca62b4d7fbaf113ed4ca0
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 98c308645b7050faec31ef011be7a4ff
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: PushNotification
+  - hash:
+      serializedVersion: 2
+      Hash: 8538547f71bd8d9b162e9206a54fb42b
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: SecondarySpinPanelView
+  - hash:
+      serializedVersion: 2
+      Hash: ac42823723a2f2f66c29f709a8fa1313
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: PriceLocalize
+  - hash:
+      serializedVersion: 2
+      Hash: 9b1ad16a5eddbce4baae6d124a6a76f6
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: WalletSelectSkinButton
+  - hash:
+      serializedVersion: 2
+      Hash: 8784280db9ed361779686dfedbbdc231
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: AdMediation
+  - hash:
+      serializedVersion: 2
+      Hash: 9954a68c6206ee8613474e148b22313e
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: DelayToShowObject
+  - hash:
+      serializedVersion: 2
+      Hash: 9bdb1142c0f15f058f0c889aec5b606c
+    assemblyName: com.solana.unity_sdk
+    namespaceName: 
+    className: Web3Auth
+  - hash:
+      serializedVersion: 2
+      Hash: 9a174471d4db2c0c6d3ac47d2f818db1
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnParticleCollisionMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: dbafa8af356644438ed2cfda1f99941e
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ButtonWeeklyEvent
+  - hash:
+      serializedVersion: 2
+      Hash: 83cfda82082c233d96cc677c19f57e07
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnJointBreakMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 329187d7a66491950c8b6f218698c67a
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: InGamePurchase
+  - hash:
+      serializedVersion: 2
+      Hash: 9a6e522fe048b11d20c4e635b44b4451
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: MarketplaceEditOfferPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: 378ac8efdd9f2fa15933dcaefc4da3dc
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ShopOfferQuantityInfo
+  - hash:
+      serializedVersion: 2
+      Hash: a1ac4c50e55874de16eee3db71aa9784
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 4342ac1bbadce59f3a9fc7ca7df8ccc7
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ChestRewardCard
+  - hash:
+      serializedVersion: 2
+      Hash: c91d857cedbc66eaa07a590d67a69437
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: ButtonClickSound
+  - hash:
+      serializedVersion: 2
+      Hash: 9e1c3f55a16f2e5aed243f452cb90800
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GuiSlider
+  - hash:
+      serializedVersion: 2
+      Hash: 4718916586b3818eb69bf65df61f0f3a
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnCollisionStay2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 947fc6e67821a2ab8096198bd63ec435
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: GroupedOfferMenuPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: 341dbcd9cc8317858b5e64727fe0bdda
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GuiSlide
+  - hash:
+      serializedVersion: 2
+      Hash: d82086405f46de14829f6b4bcbdd8fc9
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnBecameInvisibleMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: bafa7b32d8117568349d6e281ea2122c
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: OfferPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: ca93c3ab9e0e54347eaf25619d6c1d83
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputActionEditorWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 136d7912a7e2641820cbf7a1398d1a93
+    assemblyName: Assembly-CSharp
+    namespaceName: Mkey
+    className: GameLevelHolder
+  - hash:
+      serializedVersion: 2
+      Hash: f2305da2400dfe6f069770a1a63f0f7c
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: d398f0a7ae6a398780c74b42844abcfb
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: FreeSpinButton
+  - hash:
+      serializedVersion: 2
+      Hash: f509a955337f6467153a416cb1e3cce6
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: ButtonSendAnalytic
+  - hash:
+      serializedVersion: 2
+      Hash: f24e5da6153aea9bb5f5849cdcfadcb8
+    assemblyName: Assembly-CSharp
+    namespaceName: IDosGames
+    className: RewardMultiplicator
+  - hash:
+      serializedVersion: 2
+      Hash: ce74146b3d2527a6a3718523be8751ae
+    assemblyName: NativeWebSocket.dll
+    namespaceName: 
+    className: MainThreadUtil
+  platform: 20
+  scenePathNames:
+  - Assets/IDosGamesSDK/Scenes/Login.unity
+  - Assets/Mahjong/Scenes/0_Splash.unity
+  - Assets/Mahjong/Scenes/1_Map_Simple.unity
+  - Assets/Mahjong/Scenes/2_Game_Constructor.unity
+  playerPath: C:/Users/BG/Desktop/MAHJONG1510

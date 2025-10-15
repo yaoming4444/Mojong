@@ -1,0 +1,229 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void NethereumHostProvider_get_Name_m69C811CDC186185EF5933EE5AE11B3CB7ED96789 (void);
+extern void NethereumHostProvider_get_Available_mE01462D92714618D2E37C03D946328AEEC0ECC5E (void);
+extern void NethereumHostProvider_get_Account_mD27EBA90C504D47A7333337EA4E06F47DBB40D2D (void);
+extern void NethereumHostProvider_set_Account_m4A73A7C79EE845CC710313071847A623B9F222A0 (void);
+extern void NethereumHostProvider_get_Url_m0CE8D8DD0C4293F77282C6AF19978BFD08C5E5C9 (void);
+extern void NethereumHostProvider_set_Url_m983CC67074FDCFCF37B6D84F05C5185EE846949C (void);
+extern void NethereumHostProvider_get_SelectedAccount_m63C19BAE6B5D8F96EFF00E2F36D4A0E7ECCD7941 (void);
+extern void NethereumHostProvider_get_Enabled_m1E9D0FBF7DADB4881AE56BDF33F42F927EE13E50 (void);
+extern void NethereumHostProvider_get_SelectedNetworkChainId_mBDB8950C7190A520A46B32EBCEC3364CEC6D5EB7 (void);
+extern void NethereumHostProvider_set_SelectedNetworkChainId_m0C8580931A4ED37F933632E960F2E24573F3CD2E (void);
+extern void NethereumHostProvider_add_SelectedAccountChanged_mD3A6776DC5299784681B0BEB56B9BEA3B4FB4C26 (void);
+extern void NethereumHostProvider_remove_SelectedAccountChanged_m578CCA0B3E47F67BAA5D040287AEDA85664AAB21 (void);
+extern void NethereumHostProvider_add_NetworkChanged_m5F23D725293F911A85420C802922279762666174 (void);
+extern void NethereumHostProvider_remove_NetworkChanged_m84CD9239C3D206478D685F7D40C73D5631CDFBB4 (void);
+extern void NethereumHostProvider_add_AvailabilityChanged_m2A1C411B031E4F55FEDA9BB5122998849BBB74AC (void);
+extern void NethereumHostProvider_remove_AvailabilityChanged_m01F396DDCCC97290EF56A6EEA13B08C3EDCC77C3 (void);
+extern void NethereumHostProvider_add_EnabledChanged_m3F246D67A9BFB73B2ACF1AE23A6CD8B9A27F1B9E (void);
+extern void NethereumHostProvider_remove_EnabledChanged_m6E203A603765D574CA6A8603536CCAAF5B81134B (void);
+extern void NethereumHostProvider_CheckProviderAvailabilityAsync_m8D326C3BC2EE365578CA0F253B90E55AD17702AB (void);
+extern void NethereumHostProvider_ChangeAvailableAsync_mC26DFB244D8365EAF01CF5ABA04CBAE8689F8748 (void);
+extern void NethereumHostProvider_EnableProviderAsync_mD0BA9913E34EDEC1C21499A09581CE95326FB439 (void);
+extern void NethereumHostProvider_GetProviderSelectedAccountAsync_m8A877C7D9E86609AB1834C45FCB0057926AE7C5D (void);
+extern void NethereumHostProvider_GetProviderSelectedNetworkAsync_mA50BED9CA623C60757A185F7E94D016F3991983D (void);
+extern void NethereumHostProvider_SignMessageAsync_m254C696502D0C40F9C1AF0939D7AFA3D671A5393 (void);
+extern void NethereumHostProvider_SetSelectedAccount_m8997DB0DB512256CB094F1EA06F0A2C70EB9E417 (void);
+extern void NethereumHostProvider_SetSelectedAccount_mD7F06487C3EA7DA77679CD1ED91CB3BC682E8C6B (void);
+extern void NethereumHostProvider_SetUrl_m160AA5A62B91F9037FBECEE36BD79F4B072FAF86 (void);
+extern void NethereumHostProvider_GetWeb3Async_mAD0339F5937BA436A6EF2CEDD12BF8D677BBBDBC (void);
+extern void NethereumHostProvider__ctor_mF56C466C56FE3E72C0B3E2BCA68234EEE1106A11 (void);
+extern void U3CChangeAvailableAsyncU3Ed__33_MoveNext_mF80036A96EDC6B4A624BBFE8EC4A1FE04184CAA2 (void);
+extern void U3CChangeAvailableAsyncU3Ed__33_SetStateMachine_mB56A55F747110E22EB6D25B65A050BB769A9C98C (void);
+extern void U3CCheckProviderAvailabilityAsyncU3Ed__32_MoveNext_m684DAB4C4C665C82C4C02C5642FF2D031440168C (void);
+extern void U3CCheckProviderAvailabilityAsyncU3Ed__32_SetStateMachine_m52D5FF2E8074E40022C3C134EE8C7E2641A102ED (void);
+extern void U3CSetUrlU3Ed__40_MoveNext_m3CDA0D912A06D342F6ADECAFF99BD507B224BE54 (void);
+extern void U3CSetUrlU3Ed__40_SetStateMachine_mB63750A6B5C2B4BF9B30B5E91DF3611B2A528B49 (void);
+extern void NethereumSiweAuthenticatorService__ctor_m8A361B889D967D669F4BA802B79EA9048A54B576 (void);
+extern void NethereumSiweAuthenticatorService_GenerateNewSiweMessage_m1D2B4CD0EC4FA39D85D9B9E89493588446AEDCB4 (void);
+extern void NethereumSiweAuthenticatorService_AuthenticateAsync_mB01B1C828BE64A1948E5944C0FDB2B6706AAEBEC (void);
+extern void NethereumSiweAuthenticatorService_LogOut_m12BC7EC37E42BC4E49580932A0D9661CB7E792B2 (void);
+extern void U3CAuthenticateAsyncU3Ed__4_MoveNext_mD8FE7121A11BC5B2D0B2D225A2051664B9C19A43 (void);
+extern void U3CAuthenticateAsyncU3Ed__4_SetStateMachine_mCCC3D2EFF10D81695BDC224C9EDE724648821774 (void);
+extern void SelectedEthereumHostProviderService_add_SelectedHostProviderChanged_mEE5FE9063F9234606346A8B21DB788669A595353 (void);
+extern void SelectedEthereumHostProviderService_remove_SelectedHostProviderChanged_mA87F27E87A681DE104486377F55820D881476BFE (void);
+extern void SelectedEthereumHostProviderService_get_SelectedHost_mCF7A46B18D843A386C60D24857E50C914AAAE0AB (void);
+extern void SelectedEthereumHostProviderService_SetSelectedEthereumHostProvider_m93DE89AA0F9659F3135F9AE492BFCD0207503F6F (void);
+extern void SelectedEthereumHostProviderService__ctor_m5E11ED78F172E553D1D67D72A126C4D658A1D5C5 (void);
+static Il2CppMethodPointer s_methodPointers[64] = 
+{
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NethereumHostProvider_get_Name_m69C811CDC186185EF5933EE5AE11B3CB7ED96789,
+	NethereumHostProvider_get_Available_mE01462D92714618D2E37C03D946328AEEC0ECC5E,
+	NethereumHostProvider_get_Account_mD27EBA90C504D47A7333337EA4E06F47DBB40D2D,
+	NethereumHostProvider_set_Account_m4A73A7C79EE845CC710313071847A623B9F222A0,
+	NethereumHostProvider_get_Url_m0CE8D8DD0C4293F77282C6AF19978BFD08C5E5C9,
+	NethereumHostProvider_set_Url_m983CC67074FDCFCF37B6D84F05C5185EE846949C,
+	NethereumHostProvider_get_SelectedAccount_m63C19BAE6B5D8F96EFF00E2F36D4A0E7ECCD7941,
+	NethereumHostProvider_get_Enabled_m1E9D0FBF7DADB4881AE56BDF33F42F927EE13E50,
+	NethereumHostProvider_get_SelectedNetworkChainId_mBDB8950C7190A520A46B32EBCEC3364CEC6D5EB7,
+	NethereumHostProvider_set_SelectedNetworkChainId_m0C8580931A4ED37F933632E960F2E24573F3CD2E,
+	NethereumHostProvider_add_SelectedAccountChanged_mD3A6776DC5299784681B0BEB56B9BEA3B4FB4C26,
+	NethereumHostProvider_remove_SelectedAccountChanged_m578CCA0B3E47F67BAA5D040287AEDA85664AAB21,
+	NethereumHostProvider_add_NetworkChanged_m5F23D725293F911A85420C802922279762666174,
+	NethereumHostProvider_remove_NetworkChanged_m84CD9239C3D206478D685F7D40C73D5631CDFBB4,
+	NethereumHostProvider_add_AvailabilityChanged_m2A1C411B031E4F55FEDA9BB5122998849BBB74AC,
+	NethereumHostProvider_remove_AvailabilityChanged_m01F396DDCCC97290EF56A6EEA13B08C3EDCC77C3,
+	NethereumHostProvider_add_EnabledChanged_m3F246D67A9BFB73B2ACF1AE23A6CD8B9A27F1B9E,
+	NethereumHostProvider_remove_EnabledChanged_m6E203A603765D574CA6A8603536CCAAF5B81134B,
+	NethereumHostProvider_CheckProviderAvailabilityAsync_m8D326C3BC2EE365578CA0F253B90E55AD17702AB,
+	NethereumHostProvider_ChangeAvailableAsync_mC26DFB244D8365EAF01CF5ABA04CBAE8689F8748,
+	NethereumHostProvider_EnableProviderAsync_mD0BA9913E34EDEC1C21499A09581CE95326FB439,
+	NethereumHostProvider_GetProviderSelectedAccountAsync_m8A877C7D9E86609AB1834C45FCB0057926AE7C5D,
+	NethereumHostProvider_GetProviderSelectedNetworkAsync_mA50BED9CA623C60757A185F7E94D016F3991983D,
+	NethereumHostProvider_SignMessageAsync_m254C696502D0C40F9C1AF0939D7AFA3D671A5393,
+	NethereumHostProvider_SetSelectedAccount_m8997DB0DB512256CB094F1EA06F0A2C70EB9E417,
+	NethereumHostProvider_SetSelectedAccount_mD7F06487C3EA7DA77679CD1ED91CB3BC682E8C6B,
+	NethereumHostProvider_SetUrl_m160AA5A62B91F9037FBECEE36BD79F4B072FAF86,
+	NethereumHostProvider_GetWeb3Async_mAD0339F5937BA436A6EF2CEDD12BF8D677BBBDBC,
+	NethereumHostProvider__ctor_mF56C466C56FE3E72C0B3E2BCA68234EEE1106A11,
+	U3CChangeAvailableAsyncU3Ed__33_MoveNext_mF80036A96EDC6B4A624BBFE8EC4A1FE04184CAA2,
+	U3CChangeAvailableAsyncU3Ed__33_SetStateMachine_mB56A55F747110E22EB6D25B65A050BB769A9C98C,
+	U3CCheckProviderAvailabilityAsyncU3Ed__32_MoveNext_m684DAB4C4C665C82C4C02C5642FF2D031440168C,
+	U3CCheckProviderAvailabilityAsyncU3Ed__32_SetStateMachine_m52D5FF2E8074E40022C3C134EE8C7E2641A102ED,
+	U3CSetUrlU3Ed__40_MoveNext_m3CDA0D912A06D342F6ADECAFF99BD507B224BE54,
+	U3CSetUrlU3Ed__40_SetStateMachine_mB63750A6B5C2B4BF9B30B5E91DF3611B2A528B49,
+	NethereumSiweAuthenticatorService__ctor_m8A361B889D967D669F4BA802B79EA9048A54B576,
+	NethereumSiweAuthenticatorService_GenerateNewSiweMessage_m1D2B4CD0EC4FA39D85D9B9E89493588446AEDCB4,
+	NethereumSiweAuthenticatorService_AuthenticateAsync_mB01B1C828BE64A1948E5944C0FDB2B6706AAEBEC,
+	NethereumSiweAuthenticatorService_LogOut_m12BC7EC37E42BC4E49580932A0D9661CB7E792B2,
+	U3CAuthenticateAsyncU3Ed__4_MoveNext_mD8FE7121A11BC5B2D0B2D225A2051664B9C19A43,
+	U3CAuthenticateAsyncU3Ed__4_SetStateMachine_mCCC3D2EFF10D81695BDC224C9EDE724648821774,
+	SelectedEthereumHostProviderService_add_SelectedHostProviderChanged_mEE5FE9063F9234606346A8B21DB788669A595353,
+	SelectedEthereumHostProviderService_remove_SelectedHostProviderChanged_mA87F27E87A681DE104486377F55820D881476BFE,
+	SelectedEthereumHostProviderService_get_SelectedHost_mCF7A46B18D843A386C60D24857E50C914AAAE0AB,
+	SelectedEthereumHostProviderService_SetSelectedEthereumHostProvider_m93DE89AA0F9659F3135F9AE492BFCD0207503F6F,
+	SelectedEthereumHostProviderService__ctor_m5E11ED78F172E553D1D67D72A126C4D658A1D5C5,
+};
+extern void U3CChangeAvailableAsyncU3Ed__33_MoveNext_mF80036A96EDC6B4A624BBFE8EC4A1FE04184CAA2_AdjustorThunk (void);
+extern void U3CChangeAvailableAsyncU3Ed__33_SetStateMachine_mB56A55F747110E22EB6D25B65A050BB769A9C98C_AdjustorThunk (void);
+extern void U3CCheckProviderAvailabilityAsyncU3Ed__32_MoveNext_m684DAB4C4C665C82C4C02C5642FF2D031440168C_AdjustorThunk (void);
+extern void U3CCheckProviderAvailabilityAsyncU3Ed__32_SetStateMachine_m52D5FF2E8074E40022C3C134EE8C7E2641A102ED_AdjustorThunk (void);
+extern void U3CSetUrlU3Ed__40_MoveNext_m3CDA0D912A06D342F6ADECAFF99BD507B224BE54_AdjustorThunk (void);
+extern void U3CSetUrlU3Ed__40_SetStateMachine_mB63750A6B5C2B4BF9B30B5E91DF3611B2A528B49_AdjustorThunk (void);
+extern void U3CAuthenticateAsyncU3Ed__4_MoveNext_mD8FE7121A11BC5B2D0B2D225A2051664B9C19A43_AdjustorThunk (void);
+extern void U3CAuthenticateAsyncU3Ed__4_SetStateMachine_mCCC3D2EFF10D81695BDC224C9EDE724648821774_AdjustorThunk (void);
+static Il2CppTokenAdjustorThunkPair s_adjustorThunks[8] = 
+{
+	{ 0x06000030, U3CChangeAvailableAsyncU3Ed__33_MoveNext_mF80036A96EDC6B4A624BBFE8EC4A1FE04184CAA2_AdjustorThunk },
+	{ 0x06000031, U3CChangeAvailableAsyncU3Ed__33_SetStateMachine_mB56A55F747110E22EB6D25B65A050BB769A9C98C_AdjustorThunk },
+	{ 0x06000032, U3CCheckProviderAvailabilityAsyncU3Ed__32_MoveNext_m684DAB4C4C665C82C4C02C5642FF2D031440168C_AdjustorThunk },
+	{ 0x06000033, U3CCheckProviderAvailabilityAsyncU3Ed__32_SetStateMachine_m52D5FF2E8074E40022C3C134EE8C7E2641A102ED_AdjustorThunk },
+	{ 0x06000034, U3CSetUrlU3Ed__40_MoveNext_m3CDA0D912A06D342F6ADECAFF99BD507B224BE54_AdjustorThunk },
+	{ 0x06000035, U3CSetUrlU3Ed__40_SetStateMachine_mB63750A6B5C2B4BF9B30B5E91DF3611B2A528B49_AdjustorThunk },
+	{ 0x0600003A, U3CAuthenticateAsyncU3Ed__4_MoveNext_mD8FE7121A11BC5B2D0B2D225A2051664B9C19A43_AdjustorThunk },
+	{ 0x0600003B, U3CAuthenticateAsyncU3Ed__4_SetStateMachine_mCCC3D2EFF10D81695BDC224C9EDE724648821774_AdjustorThunk },
+};
+static const int32_t s_InvokerIndices[64] = 
+{
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	13133,
+	12970,
+	13133,
+	10575,
+	13133,
+	10575,
+	13133,
+	12970,
+	13080,
+	10524,
+	10575,
+	10575,
+	10575,
+	10575,
+	10575,
+	10575,
+	10575,
+	10575,
+	13133,
+	9237,
+	13133,
+	13133,
+	13133,
+	9262,
+	10575,
+	10575,
+	9262,
+	13133,
+	13299,
+	13299,
+	10575,
+	13299,
+	10575,
+	13299,
+	10575,
+	5730,
+	9262,
+	9262,
+	10575,
+	13299,
+	10575,
+	10575,
+	10575,
+	13133,
+	9262,
+	13299,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Nethereum_UI_CodeGenModule;
+const Il2CppCodeGenModule g_Nethereum_UI_CodeGenModule = 
+{
+	"Nethereum.UI.dll",
+	64,
+	s_methodPointers,
+	8,
+	s_adjustorThunks,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
