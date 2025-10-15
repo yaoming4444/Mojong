@@ -1,4 +1,4 @@
-![Mahjong Banner]()
+![Mahjong Banner](https://raw.githubusercontent.com/yaoming4444/Mojong /logo_BG.png)
 
 # Mahjong
 A modern **Web3 version** of the classic Chinese tile-matching game with the native meme token **$麻将**.  
